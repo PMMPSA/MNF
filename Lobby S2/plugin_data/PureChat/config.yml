@@ -1,0 +1,10 @@
+---
+version: 1.4.10-6
+default-factions-plugin: PiggyFactions
+enable-multiworld-chat: false
+groups:
+  Member:
+    chat: §8【§aMember§8】 &a{display_name} &7➢ &f{msg}
+    nametag: §8【§aMember§8】 §7{display_name}
+    worlds: []
+...

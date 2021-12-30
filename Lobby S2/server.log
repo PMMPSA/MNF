@@ -1,0 +1,1877 @@
+2021-07-01 [07:34:20] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [07:34:20] [Server thread/INFO]: Loading server properties...
+2021-07-01 [07:34:20] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [07:34:20] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [07:34:20] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [07:34:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [07:34:20] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [07:34:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [07:34:21] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [07:34:21] [Server thread/NOTICE]: World "world" not found
+2021-07-01 [07:34:21] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [07:34:21] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-07-01 [07:34:21] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [07:34:21] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [07:34:21] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [07:34:21] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [07:34:21] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [07:34:21] [Server thread/INFO]: Done (0.874s)! For help, type "help" or "?"
+2021-07-01 [07:35:57] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [07:35:57] [Server thread/INFO]: Loading server properties...
+2021-07-01 [07:35:57] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [07:35:57] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [07:35:57] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [07:35:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [07:35:58] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [07:35:58] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [07:35:58] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [07:35:58] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [07:35:58] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [07:35:58] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [07:35:58] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [07:35:58] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [07:35:58] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [07:35:58] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [07:35:58] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [07:35:59] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2021-07-01 [07:35:59] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [07:35:59] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [07:35:59] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [07:35:59] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [07:35:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [07:35:59] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [07:35:59] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [07:35:59] [Server thread/INFO]: Done (1.175s)! For help, type "help" or "?"
+2021-07-01 [07:36:12] [Server thread/INFO]: [CONSOLE: Opped hazarde1924]
+2021-07-01 [07:37:42] [Server thread/NOTICE]: Player data not found for "hazarde1924", creating new profile
+2021-07-01 [07:37:42] [Server thread/INFO]: Hazarde1924[/14.175.176.156:47574] logged in with entity id 1 at (world, 256, 70, 256)
+2021-07-01 [07:37:51] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [07:37:55] [Server thread/INFO]: [Hazarde1924: Set own game mode to Creative Mode]
+2021-07-01 [07:38:26] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [07:38:26] [Server thread/INFO]: Hazarde1924[/14.175.176.156:47574] logged out due to timeout
+2021-07-01 [07:40:12] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [07:40:12] [Server thread/INFO]: Loading server properties...
+2021-07-01 [07:40:12] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [07:40:12] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [07:40:12] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [07:40:12] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [07:40:13] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [07:40:13] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [07:40:13] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [07:40:13] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [07:40:13] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [07:40:13] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [07:40:13] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [07:40:13] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [07:40:14] [Server thread/NOTICE]: [EconomyAPI] COVID19: Wash your hands with soap and running water for 30 seconds frequently.
+2021-07-01 [07:40:14] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [07:40:14] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [07:40:14] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [07:40:14] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [07:40:14] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [07:40:14] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [07:40:14] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [07:40:14] [Server thread/INFO]: Done (1.171s)! For help, type "help" or "?"
+2021-07-01 [07:43:11] [Server thread/INFO]: Hazarde1924[/14.175.176.156:38759] logged in with entity id 1 at (world, 222.3, 66.1781, 296.152)
+2021-07-01 [07:43:20] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [07:43:46] [Server thread/INFO]: [MaxEnchants] Hazarde1924 added Efficiency level 15 for Hazarde1924
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: TypeError: "Argument 1 passed to CLADevs\Minion\database\Vault::CLADevs\Minion\database\{closure}() must be an instance of muqsit\invmenu\transaction\InvMenuTransaction, instance of pocketmine\Player given, called in C:\Users\daozatien\Desktop\PocketMine-MP\plugins\Miniona\src\muqsit\invmenu\InvMenuHandler.php on line 68" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/database/Vault" at line 49
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #0 plugins/Miniona/src/muqsit/invmenu/InvMenuHandler(68): CLADevs\Minion\database\Vault->CLADevs\Minion\database\{closure}(object pocketmine\Player, object pocketmine\item\ItemBlock, object pocketmine\item\ItemBlock, object pocketmine\inventory\transaction\action\SlotChangeAction)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #1 pmsrc/src/pocketmine/plugin/MethodEventExecutor(42): muqsit\invmenu\InvMenuHandler->onInventoryTransaction(object pocketmine\event\inventory\InventoryTransactionEvent)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/plugin/RegisteredListener(80): pocketmine\plugin\MethodEventExecutor->execute(object muqsit\invmenu\InvMenuHandler, object pocketmine\event\inventory\InventoryTransactionEvent)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/event/Event(88): pocketmine\plugin\RegisteredListener->callEvent(object pocketmine\event\inventory\InventoryTransactionEvent)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/inventory/transaction/InventoryTransaction(297): pocketmine\event\Event->call()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/inventory/transaction/InventoryTransaction(321): pocketmine\inventory\transaction\InventoryTransaction->callExecuteEvent()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/Player(2508): pocketmine\inventory\transaction\InventoryTransaction->execute()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(149): pocketmine\Player->handleInventoryTransaction(object pocketmine\network\mcpe\protocol\InventoryTransactionPacket)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/network/mcpe/protocol/InventoryTransactionPacket(106): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleInventoryTransaction(object pocketmine\network\mcpe\protocol\InventoryTransactionPacket)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #9 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\InventoryTransactionPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #10 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\InventoryTransactionPacket)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #12 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #13 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #14 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 38759, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #17 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #18 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #19 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625125538.6722)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #20 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #21 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #22 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #23 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [07:45:38] [Server thread/CRITICAL]: #24 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [07:45:38] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [07:45:38] [Server thread/INFO]: Hazarde1924[/14.175.176.156:38759] logged out due to Internal server error
+2021-07-01 [07:45:38] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [07:46:27] [Server thread/INFO]: Hazarde1924[/14.175.176.156:38759] logged in with entity id 4 at (world, 215.339, 65, 281.1939)
+2021-07-01 [07:46:42] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [07:47:15] [Server thread/INFO]: [MaxEnchants] Hazarde1924 added Power level 5000 for Hazarde1924
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: Error: "Class 'onebone\pointapi\PointAPI' not found" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/Main" at line 233
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #0 plugins/Miniona/src/CLADevs/Minion/Main(203): CLADevs\Minion\Main->upgradeMinion(object pocketmine\Player, object CLADevs\Minion\minion\Minion)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #1 plugins/FormAPI_DontTouchThis.phar/src/jojoe77777/FormAPI/Form(46): CLADevs\Minion\Main->CLADevs\Minion\{closure}(object pocketmine\Player, integer 3)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/Player(3666): jojoe77777\FormAPI\Form->handleResponse(object pocketmine\Player, integer 3)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(259): pocketmine\Player->onFormSubmit(integer 2, integer 3)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #9 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #10 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 38759, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #12 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #13 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #14 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625125657.2221)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #17 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #18 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #19 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [07:47:37] [Server thread/CRITICAL]: #20 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [07:47:37] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [07:47:37] [Server thread/INFO]: Hazarde1924[/14.175.176.156:38759] logged out due to Internal server error
+2021-07-01 [07:47:37] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [10:21:50] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [10:21:50] [Server thread/INFO]: Loading server properties...
+2021-07-01 [10:21:50] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [10:21:50] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [10:21:50] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [10:21:50] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [10:21:51] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [10:21:51] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [10:21:51] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [10:21:51] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:21:51] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [10:21:51] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [10:21:51] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [10:21:51] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:21:51] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [10:21:51] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [10:21:51] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [10:21:52] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2021-07-01 [10:21:52] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [10:21:52] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [10:21:52] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [10:21:52] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [10:21:52] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [10:21:52] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [10:21:52] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [10:21:52] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [10:21:52] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [10:21:52] [Server thread/INFO]: Done (1.4s)! For help, type "help" or "?"
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading server properties...
+2021-07-01 [10:22:33] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [10:22:33] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [10:22:33] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [10:22:33] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [10:22:33] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [10:22:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [10:22:33] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [10:22:33] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:22:33] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [10:22:33] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [10:22:33] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [10:22:33] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:22:33] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [10:22:33] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [10:22:33] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [10:22:34] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2021-07-01 [10:22:34] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [10:22:34] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [10:22:34] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [10:22:34] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [10:22:34] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [10:22:34] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [10:22:34] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [10:22:34] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [10:22:34] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [10:22:34] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [10:22:34] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [10:22:34] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [10:22:34] [Server thread/INFO]: Done (1.379s)! For help, type "help" or "?"
+2021-07-01 [10:37:27] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [10:37:27] [Server thread/INFO]: Loading server properties...
+2021-07-01 [10:37:27] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [10:37:27] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [10:37:27] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [10:37:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [10:37:27] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [10:37:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-01 [10:37:28] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [10:37:28] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:37:28] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [10:37:28] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [10:37:28] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [10:37:28] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-01 [10:37:28] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [10:37:28] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2021-07-01 [10:37:28] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [10:37:28] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [10:37:28] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [10:37:28] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [10:37:28] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [10:37:28] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [10:37:28] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [10:37:28] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [10:37:28] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [10:37:28] [Server thread/INFO]: Done (1.475s)! For help, type "help" or "?"
+2021-07-01 [10:40:22] [Server thread/INFO]: Hazarde1924[/14.175.176.156:40205] logged in with entity id 2 at (world, 214.9632, 65, 283.0262)
+2021-07-01 [10:40:34] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [10:40:55] [Server thread/INFO]: [MaxEnchants] Hazarde1924 added Fortune level 10 for Hazarde1924
+2021-07-01 [10:42:10] [Server thread/INFO]: [Hazarde1924: De-opped Hazarde1924]
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: Error: "Call to undefined method onebone\pointapi\PointAPI::getPoint()" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/Main" at line 224
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #0 plugins/FormAPI_DontTouchThis.phar/src/jojoe77777/FormAPI/Form(46): CLADevs\Minion\Main->CLADevs\Minion\{closure}(object pocketmine\Player, integer 1)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #1 pmsrc/src/pocketmine/Player(3666): jojoe77777\FormAPI\Form->handleResponse(object pocketmine\Player, integer 1)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(259): pocketmine\Player->onFormSubmit(integer 18, integer 1)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #9 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 40205, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #10 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #13 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #14 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625136136.2503)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #17 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #18 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [10:42:16] [Server thread/CRITICAL]: #19 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [10:42:16] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [10:42:16] [Server thread/INFO]: Hazarde1924[/14.175.176.156:40205] logged out due to Internal server error
+2021-07-01 [10:42:16] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [11:50:36] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49403] logged in with entity id 8 at (world, 215.8278, 65, 281.6325)
+2021-07-01 [11:50:48] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: Error: "Call to undefined method onebone\pointapi\PointAPI::getPoint()" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/Main" at line 224
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #0 plugins/FormAPI_DontTouchThis.phar/src/jojoe77777/FormAPI/Form(46): CLADevs\Minion\Main->CLADevs\Minion\{closure}(object pocketmine\Player, integer 0)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #1 pmsrc/src/pocketmine/Player(3666): jojoe77777\FormAPI\Form->handleResponse(object pocketmine\Player, integer 0)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(259): pocketmine\Player->onFormSubmit(integer 7, integer 0)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #9 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 49403, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #10 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #13 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #14 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625140361.0463)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #17 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #18 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [11:52:41] [Server thread/CRITICAL]: #19 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [11:52:41] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [11:52:41] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49403] logged out due to Internal server error
+2021-07-01 [11:52:41] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [11:59:08] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [11:59:08] [Server thread/INFO]: Loading server properties...
+2021-07-01 [11:59:08] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [11:59:08] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [11:59:08] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [11:59:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [11:59:09] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [11:59:09] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-01 [11:59:09] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [11:59:09] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [11:59:09] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [11:59:09] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [11:59:09] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [11:59:09] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [11:59:09] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2021-07-01 [11:59:09] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [11:59:09] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [11:59:10] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [11:59:10] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [11:59:10] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-01 [11:59:10] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-01 [11:59:10] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [11:59:10] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [11:59:10] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [11:59:10] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [11:59:10] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [11:59:10] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [11:59:10] [Server thread/INFO]: Done (1.426s)! For help, type "help" or "?"
+2021-07-01 [11:59:25] [Server thread/INFO]: Đã tặng 500 Point cho người chơi hazarde1924
+2021-07-01 [12:00:12] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49472] logged in with entity id 2 at (world, 213.9308, 65, 281.6512)
+2021-07-01 [12:00:24] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: Error: "Class 'CLADevs\Minion\Coin' not found" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/Main" at line 224
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #0 plugins/FormAPI_DontTouchThis.phar/src/jojoe77777/FormAPI/Form(46): CLADevs\Minion\Main->CLADevs\Minion\{closure}(object pocketmine\Player, integer 0)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #1 pmsrc/src/pocketmine/Player(3666): jojoe77777\FormAPI\Form->handleResponse(object pocketmine\Player, integer 0)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(259): pocketmine\Player->onFormSubmit(integer 1, integer 0)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #9 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 49472, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #10 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #13 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #14 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625140831.0248)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #17 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #18 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [12:00:31] [Server thread/CRITICAL]: #19 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [12:00:31] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [12:00:31] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49472] logged out due to Internal server error
+2021-07-01 [12:00:31] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading server properties...
+2021-07-01 [12:04:41] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [12:04:41] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [12:04:41] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [12:04:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [12:04:41] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [12:04:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-01 [12:04:41] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-01 [12:04:41] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [12:04:41] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [12:04:41] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [12:04:41] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [12:04:41] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [12:04:41] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [12:04:41] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [12:04:41] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [12:04:42] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2021-07-01 [12:04:42] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [12:04:42] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [12:04:42] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-01 [12:04:42] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-01 [12:04:42] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [12:04:42] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [12:04:42] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [12:04:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [12:04:42] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [12:04:42] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [12:04:42] [Server thread/INFO]: Done (1.473s)! For help, type "help" or "?"
+2021-07-01 [12:05:36] [Server thread/INFO]: Hazarde1924[/14.175.176.156:42815] logged in with entity id 2 at (world, 213.9308, 65, 281.6512)
+2021-07-01 [12:05:45] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [12:06:37] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [12:06:37] [Server thread/INFO]: Hazarde1924[/14.175.176.156:42815] logged out due to timeout
+2021-07-01 [12:06:50] [Server thread/INFO]: Usage: /givepoint <player> <amount>
+2021-07-01 [12:07:10] [Server thread/INFO]: Đã tặng 500 Point cho người chơi Hazarde1924
+2021-07-01 [12:07:36] [Server thread/INFO]: Hazarde1924[/14.175.176.156:42815] logged in with entity id 3 at (world, 215.1375, 66.125, 266.8753)
+2021-07-01 [12:07:48] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [12:09:46] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [12:09:46] [Server thread/INFO]: Hazarde1924[/14.175.176.156:42815] logged out due to client disconnect
+2021-07-01 [13:04:31] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [13:04:31] [Server thread/INFO]: Loading server properties...
+2021-07-01 [13:04:31] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [13:04:31] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [13:04:31] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [13:04:31] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [13:04:31] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [13:04:31] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-01 [13:04:32] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [13:04:32] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-01 [13:04:32] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [13:04:32] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [13:04:32] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [13:04:32] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [13:04:32] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [13:04:32] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2021-07-01 [13:04:32] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [13:04:32] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [13:04:32] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [13:04:32] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-01 [13:04:33] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-01 [13:04:33] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [13:04:33] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [13:04:33] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [13:04:33] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [13:04:33] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [13:04:33] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [13:04:33] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [13:04:33] [Server thread/INFO]: Done (1.454s)! For help, type "help" or "?"
+2021-07-01 [13:05:30] [Server thread/WARNING]: Hazarde1924 has an XUID, but their login keychain is not signed by Mojang
+2021-07-01 [13:05:30] [Server thread/INFO]: Hazarde1924[/14.175.176.156:46747] logged out due to You need to authenticate to Xbox Live.
+2021-07-01 [13:05:37] [Server thread/WARNING]: Hazarde1924 has an XUID, but their login keychain is not signed by Mojang
+2021-07-01 [13:05:37] [Server thread/INFO]: Hazarde1924[/14.175.176.156:46747] logged out due to You need to authenticate to Xbox Live.
+2021-07-01 [13:06:36] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49719] logged in with entity id 1 at (world, 221.5239, 65, 288.1406)
+2021-07-01 [13:06:45] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: ErrorException: "Undefined variable: result" (EXCEPTION) in "plugins/Miniona/src/CLADevs/Minion/Main" at line 220
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #0 plugins/Miniona/src/CLADevs/Minion/Main(220): pocketmine\utils\Utils::errorExceptionHandler(integer 8, string[26] Undefined variable: result, string[84] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\Miniona\src\CLADevs\Minion\Main, integer 220, array[3])
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #1 plugins/FormAPI_DontTouchThis.phar/src/jojoe77777/FormAPI/Form(46): CLADevs\Minion\Main->CLADevs\Minion\{closure}(object pocketmine\Player, integer 0)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #2 pmsrc/src/pocketmine/Player(3666): jojoe77777\FormAPI\Form->handleResponse(object pocketmine\Player, integer 0)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #3 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(259): pocketmine\Player->onFormSubmit(integer 1, integer 0)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #4 pmsrc/src/pocketmine/network/mcpe/protocol/ModalFormResponsePacket(49): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleModalFormResponse(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #5 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\ModalFormResponsePacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #6 pmsrc/src/pocketmine/network/mcpe/protocol/BatchPacket(130): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\ModalFormResponsePacket)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #7 pmsrc/src/pocketmine/network/mcpe/PlayerNetworkSessionAdapter(109): pocketmine\network\mcpe\protocol\BatchPacket->handle(object pocketmine\network\mcpe\PlayerNetworkSessionAdapter)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #8 pmsrc/src/pocketmine/Player(3313): pocketmine\network\mcpe\PlayerNetworkSessionAdapter->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #9 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(169): pocketmine\Player->handleDataPacket(object pocketmine\network\mcpe\protocol\BatchPacket)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #10 pmsrc/vendor/pocketmine/raklib/src/server/ServerHandler(95): pocketmine\network\mcpe\RakLibInterface->handleEncapsulated(string[20] 14.175.176.156 49719, object raklib\protocol\EncapsulatedPacket, integer 0)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #11 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(109): raklib\server\ServerHandler->handlePacket()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #12 pmsrc/src/pocketmine/network/mcpe/RakLibInterface(99): pocketmine\network\mcpe\RakLibInterface->process()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #13 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(113): pocketmine\network\mcpe\RakLibInterface->pocketmine\network\mcpe\{closure}()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #14 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(75): pocketmine\snooze\SleeperHandler->processNotifications()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #15 pmsrc/src/pocketmine/Server(2155): pocketmine\snooze\SleeperHandler->sleepUntil(double 1625144817.762)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #16 pmsrc/src/pocketmine/Server(1992): pocketmine\Server->tickProcessor()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #17 pmsrc/src/pocketmine/Server(1586): pocketmine\Server->start()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #18 pmsrc/src/pocketmine/PocketMine(291): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[41] C:\Users\daozatien\Desktop\PocketMine-MP\, string[49] C:\Users\daozatien\Desktop\PocketMine-MP\plugins\)
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #19 pmsrc/src/pocketmine/PocketMine(321): pocketmine\server()
+2021-07-01 [13:06:57] [Server thread/CRITICAL]: #20 pmsrc(11): require(string[96] phar://C:/Users/daozatien/Desktop/PocketMine-MP/PocketMine-MP.phar/src/pocketmin)
+2021-07-01 [13:06:57] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [13:06:57] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49719] logged out due to Internal server error
+2021-07-01 [13:06:57] [RakLibServer thread/NOTICE]: Blocked 14.175.176.156 for 5 seconds
+2021-07-01 [13:12:17] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-01 [13:12:17] [Server thread/INFO]: Loading server properties...
+2021-07-01 [13:12:17] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-01 [13:12:17] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-01 [13:12:17] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-01 [13:12:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-01 [13:12:18] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-01 [13:12:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading resource packs...
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-01 [13:12:18] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-01 [13:12:18] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-01 [13:12:18] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-01 [13:12:18] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-01 [13:12:18] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-01 [13:12:18] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-01 [13:12:18] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-01 [13:12:18] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-01 [13:12:18] [Server thread/INFO]: Preparing world "world"
+2021-07-01 [13:12:18] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-01 [13:12:19] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-01 [13:12:19] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-01 [13:12:19] [Server thread/NOTICE]: [EconomyAPI] COVID19: Wash your hands with soap and running water for 30 seconds frequently.
+2021-07-01 [13:12:19] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-01 [13:12:19] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-01 [13:12:19] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-01 [13:12:19] [Server thread/INFO]: Starting GS4 status listener
+2021-07-01 [13:12:19] [Server thread/INFO]: Setting query port to 19132
+2021-07-01 [13:12:19] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-01 [13:12:19] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-01 [13:12:19] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-01 [13:12:19] [Server thread/INFO]: Done (1.416s)! For help, type "help" or "?"
+2021-07-01 [13:12:47] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49719] logged in with entity id 2 at (world, 216.1937, 65, 284.2265)
+2021-07-01 [13:12:56] [Server thread/INFO]: Hazarde1924 joined the game
+2021-07-01 [13:14:16] [Server thread/INFO]: Hazarde1924 left the game
+2021-07-01 [13:14:16] [Server thread/INFO]: Hazarde1924[/14.175.176.156:49719] logged out due to timeout
+2021-07-02 [05:30:10] [Server thread/NOTICE]: Player data not found for "hazarde38242", creating new profile
+2021-07-02 [05:30:11] [Server thread/INFO]: Hazarde38242[/14.175.176.156:49378] logged in with entity id 3 at (world, 256, 68, 256)
+2021-07-02 [05:30:26] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-02 [05:30:41] [Server thread/INFO]: Hazarde38242 left the game
+2021-07-02 [05:30:41] [Server thread/INFO]: Hazarde38242[/14.175.176.156:49378] logged out due to client disconnect
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:21:04] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:21:04] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:21:04] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:21:04] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:21:04] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:21:04] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:21:04] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:21:04] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:21:04] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:21:04] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:21:04] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:21:04] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:21:04] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:21:04] [Server thread/INFO]: Preparing world "world"
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:21:04] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:21:05] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2021-07-03 [02:21:05] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:21:05] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:21:05] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:21:05] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:21:05] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:21:05] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:21:05] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:21:05] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:21:05] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:21:05] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:21:05] [Server thread/INFO]: Done (1.468s)! For help, type "help" or "?"
+2021-07-03 [02:22:19] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged in with entity id 1 at (world, 252.4922, 67, 255.9708)
+2021-07-03 [02:22:31] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:22:46] [Server thread/INFO]: Hazarde38242 left the game
+2021-07-03 [02:22:46] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged out due to client disconnect
+2021-07-03 [02:23:04] [Server thread/INFO]: [CONSOLE: Opped hazarde38242]
+2021-07-03 [02:23:37] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged in with entity id 3 at (world, 246.7979, 66, 267.4821)
+2021-07-03 [02:23:51] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:23:57] [Server thread/INFO]: [Hazarde38242: Set own game mode to Creative Mode]
+2021-07-03 [02:25:45] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:25:45] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:25:45] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:25:45] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:25:45] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:25:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:25:45] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:25:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:25:46] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:25:46] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:25:46] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:25:46] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:25:46] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:25:46] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:25:46] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:25:46] [Server thread/INFO]: Preparing world "world"
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:25:46] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:25:46] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2021-07-03 [02:25:46] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:25:46] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:25:46] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:25:46] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:25:46] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:25:46] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:25:46] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:25:46] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:25:46] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:25:46] [Server thread/INFO]: Done (1.324s)! For help, type "help" or "?"
+2021-07-03 [02:26:18] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged in with entity id 1 at (world, 246.7979, 66, 267.4821)
+2021-07-03 [02:26:30] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:26:37] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:26:44] [Server thread/INFO]: [Hazarde38242: Set own game mode to Creative Mode]
+2021-07-03 [02:27:24] [Server thread/INFO]: [WP] Lobby3 is now PROTECTED
+2021-07-03 [02:28:22] [Server thread/INFO]: Hazarde38242 left the game
+2021-07-03 [02:28:22] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged out due to timeout
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:29:31] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:29:31] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:29:31] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:29:31] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:29:31] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:29:31] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:29:31] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:29:31] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:29:31] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:29:31] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:29:31] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:29:31] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:29:31] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:29:31] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:29:31] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:29:31] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:29:31] [Server thread/INFO]: Preparing world "world"
+2021-07-03 [02:29:31] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:29:31] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:29:32] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2021-07-03 [02:29:32] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:29:32] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:29:32] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:29:32] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:29:32] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:29:32] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:29:32] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:29:32] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:29:32] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:29:32] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:29:32] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:29:32] [Server thread/INFO]: Done (1.45s)! For help, type "help" or "?"
+2021-07-03 [02:30:29] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48842] logged in with entity id 1 at (world, 256, 68, 256)
+2021-07-03 [02:30:43] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:30:58] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:33:34] [Server thread/INFO]: Hazarde38242 died
+2021-07-03 [02:33:41] [Server thread/INFO]: [Hazarde38242: Reloading server...]
+2021-07-03 [02:33:41] [Server thread/INFO]: Saving worlds...
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling Slapper v1.6.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling DevTools v1.14.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling MultiWorld v1.5.3
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling SlapperRotation v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling VanillaEnchantments v4.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling MaxEnchants v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling WorldProtect v2.3.8
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling FormAPI v1.3.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling PointAPI v2.0.9
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling RandomBlock1 v2.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling Minion v1.0.4
+2021-07-03 [02:33:41] [Server thread/INFO]: Disabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:33:41] [Server thread/INFO]: Reloading properties...
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:33:41] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:33:41] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:33:41] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:33:41] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:33:41] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:33:41] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:33:41] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:33:41] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:33:41] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:33:41] [Server thread/NOTICE]: [EconomyAPI] EconomyShop and EconomyLand is planned to be rewritten. Feel free to send any feedback for the plugin to <me@onebone.me>
+2021-07-03 [02:33:41] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:33:41] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:33:41] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:33:42] [Server thread/INFO]: [Hazarde38242: Reload complete.]
+2021-07-03 [02:33:51] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:34:05] [Server thread/INFO]: [Hazarde38242: Set the world spawn point to (-88, 20, 48)]
+2021-07-03 [02:34:11] [Server thread/INFO]: Hazarde38242 died
+2021-07-03 [02:37:15] [Server thread/INFO]: [Hazarde38242: Saving server data...]
+2021-07-03 [02:37:15] [Server thread/INFO]: [Hazarde38242: Save completed in 0.037 seconds]
+2021-07-03 [02:43:57] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:43:57] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:43:57] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:43:57] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:43:57] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:43:57] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:43:57] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:43:57] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:43:58] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:43:58] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:43:58] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:43:58] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:43:58] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:43:58] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:43:58] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:43:58] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:43:58] [Server thread/NOTICE]: World "world" not found
+2021-07-03 [02:43:58] [Server thread/INFO]: Preparing world "world"
+2021-07-03 [02:43:58] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:43:58] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:43:58] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2021-07-03 [02:43:58] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:43:58] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:43:58] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:43:58] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:43:58] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:43:59] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:43:59] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:43:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:43:59] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:43:59] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:43:59] [Server thread/INFO]: Done (2.18s)! For help, type "help" or "?"
+2021-07-03 [02:44:56] [Server thread/INFO]: Hazarde38242[/14.175.176.156:44346] logged in with entity id 1 at (world, 256, 66, 256)
+2021-07-03 [02:45:08] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:45:17] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:45:35] [Server thread/INFO]: Hazarde38242 left the game
+2021-07-03 [02:45:35] [Server thread/INFO]: Hazarde38242[/14.175.176.156:44346] logged out due to timeout
+2021-07-03 [02:48:37] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:48:37] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:48:37] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:48:37] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:48:37] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:48:37] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:48:38] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:48:38] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:48:38] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:48:38] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:48:38] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:48:38] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:48:38] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:48:38] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:48:38] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:48:38] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:48:38] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:48:38] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:48:38] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:48:38] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:48:38] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:48:38] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:48:39] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2021-07-03 [02:48:39] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:48:39] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:48:39] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:48:39] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:48:39] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:48:39] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:48:39] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:48:39] [Server thread/INFO]: Done (1.385s)! For help, type "help" or "?"
+2021-07-03 [02:50:05] [Server thread/INFO]: Hazarde38242[/14.175.176.156:46210] logged in with entity id 2 at (Lobby3, -88, 20, 48.3)
+2021-07-03 [02:50:16] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:50:29] [Server thread/INFO]: [WP] Lobby3 is now LOCKED
+2021-07-03 [02:50:41] [Server thread/INFO]: Hazarde38242 left the game
+2021-07-03 [02:50:41] [Server thread/INFO]: Hazarde38242[/14.175.176.156:46210] logged out due to timeout
+2021-07-03 [02:53:21] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [02:53:21] [Server thread/INFO]: Loading server properties...
+2021-07-03 [02:53:21] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [02:53:21] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [02:53:21] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [02:53:21] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [02:53:21] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [02:53:21] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [02:53:22] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [02:53:22] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [02:53:22] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:53:22] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [02:53:22] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [02:53:22] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [02:53:22] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [02:53:22] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [02:53:22] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [02:53:22] [Server thread/NOTICE]: [EconomyAPI] Something did not went wrong on update server.
+2021-07-03 [02:53:22] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [02:53:22] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [02:53:23] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [02:53:23] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [02:53:23] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [02:53:23] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [02:53:23] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [02:53:23] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [02:53:23] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [02:53:23] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [02:53:23] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [02:53:23] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [02:53:23] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [02:53:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [02:53:23] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [02:53:23] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [02:53:23] [Server thread/INFO]: Done (1.482s)! For help, type "help" or "?"
+2021-07-03 [02:54:07] [Server thread/NOTICE]: Player data not found for "ghosttgvn5623", creating new profile
+2021-07-03 [02:54:07] [Server thread/INFO]: GhostTGvn5623[/103.249.23.10:22241] logged in with entity id 2 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:54:17] [Server thread/INFO]: GhostTGvn5623 joined the game
+2021-07-03 [02:54:41] [Server thread/NOTICE]: Player data not found for "khoikage1", creating new profile
+2021-07-03 [02:54:42] [Server thread/INFO]: khoikage1[/171.252.153.49:60343] logged in with entity id 3 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:54:51] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [02:54:57] [Server thread/INFO]: <khoikage1> ????
+2021-07-03 [02:55:10] [Server thread/INFO]: <khoikage1> j v
+2021-07-03 [02:55:12] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48569] logged in with entity id 4 at (Lobby3, -87.4803, 20, 47.8435)
+2021-07-03 [02:55:26] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:55:31] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48569] logged out due to transfer
+2021-07-03 [02:55:34] [Server thread/INFO]: GhostTGvn5623 left the game
+2021-07-03 [02:55:34] [Server thread/INFO]: GhostTGvn5623[/103.249.23.10:22241] logged out due to client disconnect
+2021-07-03 [02:55:37] [Server thread/NOTICE]: Player data not found for "zodiac4863", creating new profile
+2021-07-03 [02:55:37] [Server thread/INFO]: Zodiac4863[/42.112.87.200:47361] logged in with entity id 5 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:55:43] [Server thread/INFO]: khoikage1 left the game
+2021-07-03 [02:55:43] [Server thread/INFO]: khoikage1[/171.252.153.49:60343] logged out due to client disconnect
+2021-07-03 [02:55:43] [Server thread/NOTICE]: Player data not found for "mun2123", creating new profile
+2021-07-03 [02:55:44] [Server thread/INFO]: Mun2123[/14.246.117.13:41130] logged in with entity id 6 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:55:45] [Server thread/INFO]: Zodiac4863 joined the game
+2021-07-03 [02:55:53] [Server thread/INFO]: khoikage1[/171.252.153.49:60343] logged in with entity id 7 at (Lobby3, -92.2431, 20, 48.7317)
+2021-07-03 [02:55:55] [Server thread/INFO]: Mun2123 joined the game
+2021-07-03 [02:56:01] [Server thread/NOTICE]: Player data not found for "lmao124615", creating new profile
+2021-07-03 [02:56:01] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [02:56:02] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged in with entity id 8 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:56:10] [Server thread/INFO]: <khoikage1> ko vô đc :v
+2021-07-03 [02:56:21] [Server thread/INFO]: Lmao124615 joined the game
+2021-07-03 [02:56:42] [Server thread/INFO]: Mun2123 left the game
+2021-07-03 [02:56:42] [Server thread/INFO]: Mun2123[/14.246.117.13:41130] logged out due to client disconnect
+2021-07-03 [02:56:46] [Server thread/NOTICE]: Player data not found for "cuong24", creating new profile
+2021-07-03 [02:56:47] [Server thread/INFO]: cuong24[/113.22.20.80:28386] logged in with entity id 9 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:57:02] [Server thread/INFO]: cuong24 joined the game
+2021-07-03 [02:57:15] [Server thread/INFO]: <Lmao124615> lỗi à ://
+2021-07-03 [02:57:24] [Server thread/INFO]: <khoikage1> ;//0
+2021-07-03 [02:57:49] [Server thread/NOTICE]: Player data not found for "five3150", creating new profile
+2021-07-03 [02:57:50] [Server thread/INFO]: Five3150[/171.251.232.72:26649] logged in with entity id 10 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:57:52] [Server thread/INFO]: Lmao124615 left the game
+2021-07-03 [02:57:52] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged out due to client disconnect
+2021-07-03 [02:57:52] [Server thread/INFO]: Zodiac4863 left the game
+2021-07-03 [02:57:52] [Server thread/INFO]: Zodiac4863[/42.112.87.200:47361] logged out due to client disconnect
+2021-07-03 [02:57:58] [Server thread/INFO]: Five3150 joined the game
+2021-07-03 [02:58:03] [Server thread/NOTICE]: Player data not found for "sonvntb", creating new profile
+2021-07-03 [02:58:03] [Server thread/INFO]: Sonvntb[/42.113.1.138:47004] logged in with entity id 11 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:58:09] [Server thread/INFO]: Sonvntb joined the game
+2021-07-03 [02:58:15] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48569] logged in with entity id 12 at (Lobby3, -91.1392, 20, 47.4155)
+2021-07-03 [02:58:16] [Server thread/INFO]: cuong24 left the game
+2021-07-03 [02:58:16] [Server thread/INFO]: cuong24[/113.22.20.80:28386] logged out due to client disconnect
+2021-07-03 [02:58:19] [Server thread/INFO]: Zodiac4863[/42.112.87.200:47361] logged in with entity id 13 at (Lobby3, -94.5865, 23, 44.7)
+2021-07-03 [02:58:26] [Server thread/INFO]: Zodiac4863 joined the game
+2021-07-03 [02:58:28] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged in with entity id 14 at (Lobby3, -92.6984, 21, 41.9727)
+2021-07-03 [02:58:28] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [02:58:28] [Server thread/INFO]: khoikage1 drowned
+2021-07-03 [02:58:29] [Server thread/NOTICE]: Player data not found for "vanhyt", creating new profile
+2021-07-03 [02:58:30] [Server thread/INFO]: VanhYT[/59.153.238.18:13370] logged in with entity id 15 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:58:40] [Server thread/INFO]: Hazarde38242[/14.175.176.156:48569] logged out due to transfer
+2021-07-03 [02:58:43] [Server thread/INFO]: VanhYT joined the game
+2021-07-03 [02:58:46] [Server thread/INFO]: Lmao124615 joined the game
+2021-07-03 [02:58:49] [Server thread/INFO]: <khoikage1> ông harde đâu ra skin đó v
+2021-07-03 [02:58:59] [Server thread/NOTICE]: Player data not found for "leonardonguyen0", creating new profile
+2021-07-03 [02:59:00] [Server thread/INFO]: LeonardoNguyen0[/5.8.26.201:61599] logged in with entity id 16 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:59:01] [Server thread/INFO]: <VanhYT> ad ơi
+2021-07-03 [02:59:06] [Server thread/INFO]: Zodiac4863 left the game
+2021-07-03 [02:59:06] [Server thread/INFO]: Zodiac4863[/42.112.87.200:47361] logged out due to client disconnect
+2021-07-03 [02:59:18] [Server thread/NOTICE]: Player data not found for "songtuong100", creating new profile
+2021-07-03 [02:59:19] [Server thread/INFO]: SongTuong100[/14.237.207.61:39785] logged in with entity id 17 at (Lobby3, -88, 20, 48)
+2021-07-03 [02:59:21] [Server thread/INFO]: <Lmao124615> tập thể dục :)))
+2021-07-03 [03:03:44] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [03:03:44] [Server thread/INFO]: Loading server properties...
+2021-07-03 [03:03:44] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [03:03:44] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [03:03:44] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [03:03:44] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [03:03:45] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [03:03:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [03:03:45] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [03:03:45] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [03:03:45] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [03:03:45] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:03:45] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [03:03:45] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [03:03:45] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [03:03:45] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [03:03:45] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [03:03:45] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [03:03:45] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:03:45] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [03:03:45] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [03:03:46] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2021-07-03 [03:03:46] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [03:03:46] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [03:03:46] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [03:03:46] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [03:03:46] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [03:03:46] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [03:03:46] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [03:03:46] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [03:03:46] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [03:03:46] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [03:03:46] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [03:03:46] [Server thread/INFO]: Done (1.422s)! For help, type "help" or "?"
+2021-07-03 [03:04:05] [Server thread/INFO]: [CONSOLE: De-opped hazarde38242]
+2021-07-03 [03:04:55] [Server thread/INFO]: Hazarde38242[/14.175.176.156:42080] logged in with entity id 1 at (Lobby3, -91.1002, 20, 46.1962)
+2021-07-03 [03:05:07] [Server thread/NOTICE]: Player data not found for "luuvn", creating new profile
+2021-07-03 [03:05:08] [Server thread/INFO]: LuuVN[/113.165.127.195:45120] logged in with entity id 3 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:05:09] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [03:05:26] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [03:08:22] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [03:08:22] [Server thread/INFO]: Loading server properties...
+2021-07-03 [03:08:22] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [03:08:22] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [03:08:22] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [03:08:22] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [03:08:22] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [03:08:22] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [03:08:23] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [03:08:23] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading PurePerms v1.4.3
+2021-07-03 [03:08:23] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading PureChat v1.4.11
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [03:08:23] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [03:08:23] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:08:23] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [03:08:23] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [03:08:23] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [03:08:23] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:08:23] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [EconomyAPI] The update server is now online!
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [03:08:23] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling PurePerms v1.4.3
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [03:08:23] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling PureChat v1.4.11
+2021-07-03 [03:08:23] [Server thread/NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [03:08:23] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [03:08:23] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [03:08:23] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [03:08:23] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [03:08:23] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [03:08:23] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [03:08:23] [Server thread/INFO]: Done (1.386s)! For help, type "help" or "?"
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading pocketmine.yml...
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading server properties...
+2021-07-03 [03:09:32] [Server thread/INFO]: Selected English (eng) as the base language
+2021-07-03 [03:09:32] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.0
+2021-07-03 [03:09:32] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-07-03 [03:09:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2021-07-03 [03:09:32] [Server thread/INFO]: This server is running PocketMine-MP version 3.21.0
+2021-07-03 [03:09:32] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading resource packs...
+2021-07-03 [03:09:32] [Server thread/CRITICAL]: Could not load resource pack "Minecraft.zip": Failed to parse manifest.json: JSON decode failed: Control character error, possibly incorrectly encoded
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading MaxEnchants v1.2.1
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading VanillaEnchantments v4.0.0
+2021-07-03 [03:09:32] [Server thread/INFO]: [VanillaEnchantments] Registering enchantments and enchanted books...
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading RandomBlock1 v2.0.0
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading DevTools v1.14.2
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading Slapper v1.6.2
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading SlapperRotation v1.2.1
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading MultiWorld v1.5.3
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading BuilderTools v1.2.0-beta4
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading FormAPI v1.3.0
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading PointAPI v2.0.9
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading PurePerms v1.4.3
+2021-07-03 [03:09:32] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2021-07-03 [03:09:32] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2021-07-03 [03:09:32] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading PureChat v1.4.11
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling DevTools v1.14.2
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading Minion v1.0.4
+2021-07-03 [03:09:32] [Server thread/INFO]: Loading DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:09:32] [Server thread/INFO]: [DEVirion] Loading virion InvMenu v4.1.0 by Muqsit (antigen: muqsit\invmenu)
+2021-07-03 [03:09:32] [Server thread/INFO]: [DEVirion] Loading virion libasynql v3.3.1 by SOFe (antigen: poggit\libasynql)
+2021-07-03 [03:09:32] [Server thread/WARNING]: [DEVirion] Virions should be bundled into plugins, not redistributed separately! Do NOT use DEVirion on production servers!!
+2021-07-03 [03:09:32] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2021-07-03 [03:09:32] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [03:09:32] [Server thread/INFO]: Preparing world "Lobby3"
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling MaxEnchants v1.2.1
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling VanillaEnchantments v4.0.0
+2021-07-03 [03:09:32] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling RandomBlock1 v2.0.0
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling Slapper v1.6.2
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling SlapperRotation v1.2.1
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling MultiWorld v1.5.3
+2021-07-03 [03:09:32] [Server thread/INFO]: Enabling BuilderTools v1.2.0-beta4
+2021-07-03 [03:09:33] [Server thread/WARNING]: We recommend to disable 'memory.async-worker-hard-limit' in pocketmine.yml. By disabling this option will be BuilderTools able to load bigger schematic files.
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling FormAPI v1.3.0
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling PointAPI v2.0.9
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [PointAPI] Something went wrong on update server.
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [PointAPI] Database provider was set to: Yaml
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling PurePerms v1.4.3
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [EconomyAPI] COVID19: Keep your personal hygiene by washing your hands and wearing a mask.
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling PureChat v1.4.11
+2021-07-03 [03:09:33] [Server thread/NOTICE]: [PureChat] PiggyFactions was not found. Disabling factions plugin support.
+2021-07-03 [03:09:33] [Server thread/INFO]: Enabling Minion v1.0.4
+2021-07-03 [03:09:33] [Server thread/INFO]: Starting GS4 status listener
+2021-07-03 [03:09:33] [Server thread/INFO]: Setting query port to 19132
+2021-07-03 [03:09:33] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2021-07-03 [03:09:33] [Server thread/INFO]: Default game type: Survival Mode
+2021-07-03 [03:09:33] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-07-03 [03:09:33] [Server thread/INFO]: Done (1.514s)! For help, type "help" or "?"
+2021-07-03 [03:10:40] [Server thread/INFO]: Hazarde38242[/14.175.176.156:39288] logged in with entity id 1 at (Lobby3, -91.1002, 20, 46.1962)
+2021-07-03 [03:10:52] [Server thread/INFO]: Hazarde38242 joined the game
+2021-07-03 [03:11:00] [Server thread/INFO]: Hazarde38242[/14.175.176.156:39288] logged out due to transfer
+2021-07-03 [03:12:02] [Server thread/NOTICE]: Player data not found for "sanawasw", creating new profile
+2021-07-03 [03:12:02] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 3 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:12:15] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [03:12:19] [Server thread/NOTICE]: Player data not found for "khanhmine12", creating new profile
+2021-07-03 [03:12:20] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged in with entity id 4 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:12:23] [Server thread/INFO]: 【Member】 Sanawasw ➢ ???
+2021-07-03 [03:12:24] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged out due to client disconnect
+2021-07-03 [03:12:29] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to transfer
+2021-07-03 [03:12:39] [Server thread/NOTICE]: Player data not found for "khanhmine12", creating new profile
+2021-07-03 [03:12:40] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged in with entity id 5 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:12:49] [Server thread/NOTICE]: Player data not found for "nonzerocanvas13", creating new profile
+2021-07-03 [03:12:50] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged in with entity id 6 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:13:02] [Server thread/INFO]: NonzeroCanvas13 joined the game
+2021-07-03 [03:13:04] [Server thread/INFO]: KhanhMine12 joined the game
+2021-07-03 [03:13:16] [Server thread/INFO]: 【Member】 KhanhMine12 ➢ what
+2021-07-03 [03:13:42] [Server thread/INFO]: 【Member】 KhanhMine12 ➢ đồ tui đâu where
+2021-07-03 [03:13:47] [Server thread/INFO]: 【Member】 NonzeroCanvas13 ➢ :v
+2021-07-03 [03:13:57] [Server thread/INFO]: 【Member】 NonzeroCanvas13 ➢ pay hết r :)))))
+2021-07-03 [03:14:04] [Server thread/INFO]: 【Member】 KhanhMine12 ➢ hmm
+2021-07-03 [03:14:07] [Server thread/NOTICE]: Player data not found for "namct123w", creating new profile
+2021-07-03 [03:14:07] [Server thread/NOTICE]: Player data not found for "luuvn", creating new profile
+2021-07-03 [03:14:07] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged in with entity id 7 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:14:07] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged in with entity id 8 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:14:13] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged out due to transfer
+2021-07-03 [03:14:21] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [03:14:28] [Server thread/INFO]: Namct123w joined the game
+2021-07-03 [03:14:29] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged in with entity id 9 at (Lobby3, -91.8845, 20, 47.451)
+2021-07-03 [03:14:33] [Server thread/NOTICE]: Player data not found for "thainopro6215", creating new profile
+2021-07-03 [03:14:36] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged in with entity id 10 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:14:37] [Server thread/INFO]: 【Member】 LuuVN ➢ sao mất hết đồ rồi
+2021-07-03 [03:14:38] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged out due to transfer
+2021-07-03 [03:14:39] [Server thread/INFO]: NonzeroCanvas13 joined the game
+2021-07-03 [03:14:45] [Server thread/INFO]: ThaiNoPro6215 joined the game
+2021-07-03 [03:14:46] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 11 at (Lobby3, -90.2579, 20, 48.1879)
+2021-07-03 [03:14:46] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged out due to transfer
+2021-07-03 [03:14:49] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged out due to transfer
+2021-07-03 [03:14:50] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged out due to transfer
+2021-07-03 [03:14:59] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [03:15:02] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to transfer
+2021-07-03 [03:15:14] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged in with entity id 12 at (Lobby3, -91.8896, 20, 47.687)
+2021-07-03 [03:15:14] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged in with entity id 13 at (Lobby3, -91.0863, 20, 47.3504)
+2021-07-03 [03:15:16] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged in with entity id 14 at (Lobby3, -93.2022, 20, 46.0083)
+2021-07-03 [03:15:21] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged in with entity id 15 at (Lobby3, -91.8265, 20, 47.5278)
+2021-07-03 [03:15:25] [Server thread/NOTICE]: Player data not found for "daubui1234579", creating new profile
+2021-07-03 [03:15:25] [Server thread/INFO]: ThaiNoPro6215 joined the game
+2021-07-03 [03:15:25] [Server thread/INFO]: Daubui1234579[/115.76.48.134:10135] logged in with entity id 16 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:15:27] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged out due to transfer
+2021-07-03 [03:15:28] [Server thread/INFO]: NonzeroCanvas13 joined the game
+2021-07-03 [03:15:31] [Server thread/NOTICE]: Player data not found for "bruhhakhang", creating new profile
+2021-07-03 [03:15:31] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged in with entity id 17 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:15:32] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged out due to transfer
+2021-07-03 [03:15:33] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 18 at (Lobby3, -91.1135, 20, 48.1214)
+2021-07-03 [03:15:37] [Server thread/INFO]: Namct123w joined the game
+2021-07-03 [03:15:38] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [03:15:40] [Server thread/INFO]: khoikage1[/171.252.153.49:43549] logged in with entity id 19 at (Lobby3, -99.5936, 23.263, 46.4609)
+2021-07-03 [03:15:42] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [03:15:43] [Server thread/INFO]: BruhHaKhang joined the game
+2021-07-03 [03:15:44] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged out due to transfer
+2021-07-03 [03:15:44] [Server thread/INFO]: Daubui1234579 joined the game
+2021-07-03 [03:15:46] [Server thread/INFO]: khoikage1[/171.252.153.49:43549] logged out due to client disconnect
+2021-07-03 [03:15:46] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged out due to transfer
+2021-07-03 [03:15:50] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged in with entity id 20 at (Lobby3, -91.5023, 20, 47.4464)
+2021-07-03 [03:15:55] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to transfer
+2021-07-03 [03:15:59] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged in with entity id 21 at (Lobby3, -91.8896, 20, 47.687)
+2021-07-03 [03:16:03] [Server thread/INFO]: ThaiNoPro6215 joined the game
+2021-07-03 [03:16:05] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged out due to transfer
+2021-07-03 [03:16:10] [Server thread/INFO]: NonzeroCanvas13 joined the game
+2021-07-03 [03:16:12] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged in with entity id 22 at (Lobby3, -91.4389, 20, 49.1371)
+2021-07-03 [03:16:13] [Server thread/INFO]: Daubui1234579[/115.76.48.134:10135] logged out due to transfer
+2021-07-03 [03:16:22] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged in with entity id 23 at (Lobby3, -91.5872, 20, 47.5712)
+2021-07-03 [03:16:25] [Server thread/INFO]: BruhHaKhang joined the game
+2021-07-03 [03:16:26] [Server thread/NOTICE]: Player data not found for "nongtien123", creating new profile
+2021-07-03 [03:16:26] [Server thread/INFO]: Nongtien123[/113.175.138.240:58924] logged in with entity id 24 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:16:31] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged in with entity id 25 at (Lobby3, -91.5023, 20, 47.4464)
+2021-07-03 [03:16:33] [Server thread/INFO]: Nongtien123 joined the game
+2021-07-03 [03:16:36] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Nói chuyện đi mn
+2021-07-03 [03:16:39] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [03:16:40] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Vô ko đc âu
+2021-07-03 [03:16:41] [Server thread/INFO]: ThaiNoPro6215 joined the game
+2021-07-03 [03:16:44] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 26 at (Lobby3, -91.5945, 20, 48.3977)
+2021-07-03 [03:16:45] [Server thread/INFO]: Daubui1234579[/115.76.48.134:10135] logged in with entity id 27 at (Lobby3, -91.7, 19, 45.7)
+2021-07-03 [03:16:48] [Server thread/NOTICE]: Player data not found for "dsilent1802", creating new profile
+2021-07-03 [03:16:48] [Server thread/INFO]: DSilent1802[/42.114.30.82:22247] logged in with entity id 28 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:16:49] [Server thread/INFO]: 【Member】 NonzeroCanvas13 ➢ nói cc :v
+2021-07-03 [03:16:53] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ ;-;
+2021-07-03 [03:16:55] [Server thread/INFO]: Nongtien123[/113.175.138.240:58924] logged out due to transfer
+2021-07-03 [03:16:56] [Server thread/INFO]: khoikage1[/171.252.153.49:19765] logged in with entity id 29 at (Lobby3, -99.5936, 23.263, 46.4609)
+2021-07-03 [03:16:58] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [03:16:59] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Vô đc ban :)
+2021-07-03 [03:17:01] [Server thread/INFO]: 【Member】 ThaiNoPro6215 ➢ toxic là band nha :v
+2021-07-03 [03:17:02] [Server thread/INFO]: Daubui1234579 joined the game
+2021-07-03 [03:17:04] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [03:17:07] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [03:17:09] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ :))))
+2021-07-03 [03:17:11] [Server thread/INFO]: 【Member】 LuuVN ➢ sao vô ko đc
+2021-07-03 [03:17:13] [Server thread/NOTICE]: Player data not found for "sappyplanet1400", creating new profile
+2021-07-03 [03:17:14] [Server thread/INFO]: 【Member】 Sanawasw ➢ bấm vô là văng
+2021-07-03 [03:17:15] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged in with entity id 30 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:17:15] [Server thread/INFO]: DSilent1802[/42.114.30.82:22247] logged out due to transfer
+2021-07-03 [03:17:19] [Server thread/INFO]: NonzeroCanvas13[/42.115.133.107:40128] logged out due to transfer
+2021-07-03 [03:17:19] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged out due to transfer
+2021-07-03 [03:17:24] [Server thread/INFO]: 【Member】 khoikage1 ➢ ch vô đc nx à '))
+2021-07-03 [03:17:24] [Server thread/INFO]: 【Member】 Sanawasw ➢ đợi sữa xong đi
+2021-07-03 [03:17:28] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Nói chuyện thui :)
+2021-07-03 [03:17:29] [Server thread/INFO]: 【Member】 ThaiNoPro6215 ➢ ân cho em xin luật r toxic band spam kick :))
+2021-07-03 [03:17:40] [Server thread/INFO]: LuuVN left the game
+2021-07-03 [03:17:40] [Server thread/INFO]: LuuVN[/113.165.127.195:36019] logged out due to client disconnect
+2021-07-03 [03:17:44] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Ae ơi ;-;
+2021-07-03 [03:17:47] [Server thread/INFO]: SappyPlanet1400 joined the game
+2021-07-03 [03:17:49] [Server thread/INFO]: 【Member】 ThaiNoPro6215 ➢ em nói j ko nói 2 :))
+2021-07-03 [03:17:53] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged out due to transfer
+2021-07-03 [03:17:58] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Đang định làm clan lạc đà 2 ;-;
+2021-07-03 [03:18:03] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Ai vô ko ;-;
+2021-07-03 [03:18:04] [Server thread/INFO]: KhanhMine12 left the game
+2021-07-03 [03:18:04] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged out due to client disconnect
+2021-07-03 [03:18:09] [Server thread/INFO]: 【Member】 khoikage1 ➢ ko
+2021-07-03 [03:18:14] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ :)
+2021-07-03 [03:18:18] [Server thread/NOTICE]: Player data not found for "bubuoiboi", creating new profile
+2021-07-03 [03:18:18] [Server thread/INFO]: Bubuoiboi[/171.248.226.19:47726] logged in with entity id 31 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:18:21] [Server thread/INFO]: 【Member】 Sanawasw ➢ :))
+2021-07-03 [03:18:22] [Server thread/INFO]: 【Member】 khoikage1 ➢ nãy sv bị j v
+2021-07-03 [03:18:28] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged out due to transfer
+2021-07-03 [03:18:28] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged in with entity id 32 at (Lobby3, -91.6346, 20, 47.8562)
+2021-07-03 [03:18:34] [Server thread/NOTICE]: Player data not found for "blackytb66", creating new profile
+2021-07-03 [03:18:34] [Server thread/INFO]: 【Member】 khoikage1 ➢ đang treo cái văng
+2021-07-03 [03:18:34] [Server thread/INFO]: BlackYTB66[/123.31.77.50:45448] logged in with entity id 33 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:18:41] [Server thread/INFO]: Bubuoiboi[/171.248.226.19:47726] logged out due to client disconnect
+2021-07-03 [03:18:44] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [03:18:50] [Server thread/INFO]: KhanhMine12 joined the game
+2021-07-03 [03:18:52] [Server thread/INFO]: KhanhMine12[/115.76.54.133:20656] logged out due to transfer
+2021-07-03 [03:18:53] [Server thread/NOTICE]: Player data not found for "hieubadboy2173", creating new profile
+2021-07-03 [03:18:54] [Server thread/INFO]: BlackYTB66[/123.31.77.50:45448] logged out due to transfer
+2021-07-03 [03:18:54] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:17861] logged in with entity id 34 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:19:00] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged in with entity id 35 at (Lobby3, -91.1687, 20, 47.8698)
+2021-07-03 [03:19:02] [Server thread/NOTICE]: Player data not found for "bubuoiboi", creating new profile
+2021-07-03 [03:19:02] [Server thread/INFO]: Bubuoiboi[/171.248.226.19:47726] logged in with entity id 36 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:19:05] [Server thread/INFO]: HieuBadBoy2173 joined the game
+2021-07-03 [03:19:09] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:17861] logged out due to transfer
+2021-07-03 [03:19:10] [Server thread/INFO]: Bubuoiboi[/171.248.226.19:47726] logged out due to client disconnect
+2021-07-03 [03:19:12] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to transfer
+2021-07-03 [03:19:15] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [03:19:15] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged out due to transfer
+2021-07-03 [03:19:21] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged out due to transfer
+2021-07-03 [03:19:22] [Server thread/INFO]: khoikage1 left the game
+2021-07-03 [03:19:22] [Server thread/INFO]: khoikage1[/171.252.153.49:19765] logged out due to client disconnect
+2021-07-03 [03:19:51] [Server thread/NOTICE]: Player data not found for "marbleglint2843", creating new profile
+2021-07-03 [03:19:52] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:48807] logged in with entity id 37 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:19:52] [Server thread/NOTICE]: Player data not found for "bubuoiboi", creating new profile
+2021-07-03 [03:19:53] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged in with entity id 38 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:19:59] [Server thread/INFO]: Bubuoiboi joined the game
+2021-07-03 [03:20:07] [Server thread/INFO]: MarbleGlint2843 joined the game
+2021-07-03 [03:20:16] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:48807] logged out due to transfer
+2021-07-03 [03:20:28] [Server thread/INFO]: Daubui1234579[/115.76.48.134:10135] logged out due to transfer
+2021-07-03 [03:20:32] [Server thread/INFO]: Bubuoiboi left the game
+2021-07-03 [03:20:32] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged out due to client disconnect
+2021-07-03 [03:20:42] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged in with entity id 39 at (Lobby3, -92.5579, 20, 46.1778)
+2021-07-03 [03:20:49] [Server thread/NOTICE]: Player data not found for "vnbao0609", creating new profile
+2021-07-03 [03:20:49] [Server thread/INFO]: VNBao0609[/171.255.76.201:16427] logged in with entity id 40 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:20:50] [Server thread/INFO]: Bubuoiboi joined the game
+2021-07-03 [03:20:53] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged out due to transfer
+2021-07-03 [03:21:02] [Server thread/INFO]: Five3150[/171.251.232.72:32865] logged in with entity id 41 at (Lobby3, -88.1025, 20, 48.4144)
+2021-07-03 [03:21:08] [Server thread/INFO]: VNBao0609 joined the game
+2021-07-03 [03:21:10] [Server thread/INFO]: Five3150 joined the game
+2021-07-03 [03:21:12] [Server thread/INFO]: Zodiac4863[/42.112.87.200:2884] logged in with entity id 42 at (Lobby3, -91.1647, 20, 46.9179)
+2021-07-03 [03:21:13] [Server thread/INFO]: Five3150[/171.251.232.72:32865] logged out due to transfer
+2021-07-03 [03:21:20] [Server thread/INFO]: Zodiac4863 joined the game
+2021-07-03 [03:21:25] [Server thread/INFO]: Zodiac4863[/42.112.87.200:2884] logged out due to transfer
+2021-07-03 [03:21:25] [Server thread/NOTICE]: Player data not found for "warmedcloud7109", creating new profile
+2021-07-03 [03:21:26] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:47896] logged in with entity id 43 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:21:56] [Server thread/INFO]: VNBao0609[/171.255.76.201:16427] logged out due to transfer
+2021-07-03 [03:22:06] [Server thread/INFO]: WarmedCloud7109 joined the game
+2021-07-03 [03:22:17] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:47896] logged out due to transfer
+2021-07-03 [03:23:03] [Server thread/INFO]: khoikage1[/171.252.153.49:10752] logged in with entity id 44 at (Lobby3, -91.4025, 19, 50.5542)
+2021-07-03 [03:23:12] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [03:23:13] [Server thread/INFO]: khoikage1[/171.252.153.49:10752] logged out due to transfer
+2021-07-03 [03:24:44] [Server thread/NOTICE]: Player data not found for "untymitpow", creating new profile
+2021-07-03 [03:24:45] [Server thread/INFO]: Untymitpow[/27.67.8.28:48546] logged in with entity id 45 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:25:08] [Server thread/INFO]: Untymitpow joined the game
+2021-07-03 [03:25:48] [Server thread/INFO]: DSilent1802[/42.114.30.82:26506] logged in with entity id 46 at (Lobby3, -92.2779, 20, 48.2975)
+2021-07-03 [03:25:49] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:56909] logged in with entity id 47 at (Lobby3, -92.2595, 20, 47.7223)
+2021-07-03 [03:26:03] [Server thread/INFO]: 【Member】 Untymitpow ➢ alo
+2021-07-03 [03:26:07] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [03:26:07] [Server thread/INFO]: DSilent1802[/42.114.30.82:26506] logged out due to transfer
+2021-07-03 [03:26:21] [Server thread/INFO]: Untymitpow[/27.67.8.28:48546] logged out due to transfer
+2021-07-03 [03:26:32] [Server thread/INFO]: WarmedCloud7109 joined the game
+2021-07-03 [03:26:32] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:17861] logged in with entity id 48 at (Lobby3, -93.4685, 20, 49.3384)
+2021-07-03 [03:26:35] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:56909] logged out due to transfer
+2021-07-03 [03:26:44] [Server thread/INFO]: HieuBadBoy2173 joined the game
+2021-07-03 [03:26:45] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:17861] logged out due to transfer
+2021-07-03 [03:27:16] [Server thread/INFO]: BlackYTB66[/123.31.77.50:51142] logged in with entity id 49 at (Lobby3, -90.6975, 20, 47.6453)
+2021-07-03 [03:27:26] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [03:27:30] [Server thread/INFO]: BlackYTB66[/123.31.77.50:51142] logged out due to transfer
+2021-07-03 [03:28:37] [Server thread/INFO]: DSilent1802[/42.114.30.82:26046] logged in with entity id 50 at (Lobby3, -92.2779, 20, 48.2975)
+2021-07-03 [03:28:56] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [03:29:03] [Server thread/NOTICE]: Player data not found for "max10058648", creating new profile
+2021-07-03 [03:29:04] [Server thread/INFO]: MAX10058648[/42.113.159.174:9582] logged in with entity id 51 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:29:06] [Server thread/INFO]: DSilent1802[/42.114.30.82:26046] logged out due to transfer
+2021-07-03 [03:29:10] [Server thread/INFO]: MAX10058648 joined the game
+2021-07-03 [03:29:14] [Server thread/INFO]: Untymitpow[/27.67.8.28:58394] logged in with entity id 52 at (Lobby3, -90.1436, 20, 47.8985)
+2021-07-03 [03:29:15] [Server thread/NOTICE]: Player data not found for "bananabule364", creating new profile
+2021-07-03 [03:29:15] [Server thread/INFO]: Bananabule364[/171.235.222.241:49295] logged out due to client disconnect
+2021-07-03 [03:29:16] [Server thread/INFO]: MAX10058648[/42.113.159.174:9582] logged out due to transfer
+2021-07-03 [03:29:19] [Server thread/NOTICE]: Player data not found for "songtuong100", creating new profile
+2021-07-03 [03:29:19] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 53 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:29:22] [Server thread/NOTICE]: Player data not found for "bananabule364", creating new profile
+2021-07-03 [03:29:26] [Server thread/INFO]: Bananabule364[/171.235.222.241:49295] logged in with entity id 54 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:29:28] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [03:29:36] [Server thread/INFO]: Untymitpow joined the game
+2021-07-03 [03:29:38] [Server thread/INFO]: Untymitpow[/27.67.8.28:58394] logged out due to transfer
+2021-07-03 [03:29:40] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [03:29:48] [Server thread/INFO]: Bananabule364 joined the game
+2021-07-03 [03:30:03] [Server thread/INFO]: Bananabule364[/171.235.222.241:49295] logged out due to transfer
+2021-07-03 [03:31:25] [Server thread/NOTICE]: Player data not found for "callmevinhka", creating new profile
+2021-07-03 [03:31:27] [Server thread/INFO]: Callmevinhka[/125.212.149.146:10473] logged in with entity id 55 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:31:55] [Server thread/INFO]: Callmevinhka joined the game
+2021-07-03 [03:31:57] [Server thread/NOTICE]: Player data not found for "monnkhon1294", creating new profile
+2021-07-03 [03:31:57] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:27876] logged in with entity id 56 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:32:00] [Server thread/INFO]: Monnkhon1294 joined the game
+2021-07-03 [03:32:12] [Server thread/INFO]: Callmevinhka[/125.212.149.146:10473] logged out due to transfer
+2021-07-03 [03:32:16] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:27876] logged out due to transfer
+2021-07-03 [03:33:32] [Server thread/NOTICE]: Player data not found for "nhokkoten", creating new profile
+2021-07-03 [03:33:33] [Server thread/INFO]: nhokkoten[/14.160.171.93:34383] logged in with entity id 57 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:33:59] [Server thread/INFO]: Bananabule364[/171.235.222.241:49295] logged in with entity id 58 at (Lobby3, -90.7178, 20, 47.7407)
+2021-07-03 [03:34:03] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged in with entity id 59 at (Lobby3, -91.4505, 20, 47.3966)
+2021-07-03 [03:34:06] [Server thread/INFO]: nhokkoten joined the game
+2021-07-03 [03:34:11] [Server thread/INFO]: nhokkoten[/14.160.171.93:34383] logged out due to transfer
+2021-07-03 [03:34:21] [Server thread/INFO]: Bananabule364 joined the game
+2021-07-03 [03:34:23] [Server thread/INFO]: Bananabule364[/171.235.222.241:49295] logged out due to transfer
+2021-07-03 [03:34:37] [Server thread/INFO]: SappyPlanet1400 joined the game
+2021-07-03 [03:34:40] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged out due to transfer
+2021-07-03 [03:35:09] [Server thread/NOTICE]: Player data not found for "noober67345", creating new profile
+2021-07-03 [03:35:09] [Server thread/INFO]: Noober67345[/14.184.229.119:57377] logged in with entity id 60 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:35:22] [Server thread/INFO]: Noober67345 joined the game
+2021-07-03 [03:35:27] [Server thread/INFO]: Noober67345[/14.184.229.119:57377] logged out due to transfer
+2021-07-03 [03:35:56] [Server thread/NOTICE]: Player data not found for "azatkasuki27", creating new profile
+2021-07-03 [03:35:56] [Server thread/INFO]: AzatKasuki27[/14.251.34.68:61269] logged in with entity id 61 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:36:10] [Server thread/NOTICE]: Player data not found for "longsenpai2753", creating new profile
+2021-07-03 [03:36:11] [Server thread/INFO]: LongSenpai2753[/171.225.254.255:3723] logged in with entity id 62 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:36:23] [Server thread/INFO]: AzatKasuki27 joined the game
+2021-07-03 [03:36:41] [Server thread/INFO]: AzatKasuki27[/14.251.34.68:61269] logged out due to transfer
+2021-07-03 [03:36:44] [Server thread/INFO]: LongSenpai2753 joined the game
+2021-07-03 [03:36:45] [Server thread/NOTICE]: Player data not found for "draken5082", creating new profile
+2021-07-03 [03:36:46] [Server thread/INFO]: Draken5082[/117.7.220.84:28149] logged in with entity id 63 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:36:54] [Server thread/INFO]: Draken5082 joined the game
+2021-07-03 [03:37:01] [Server thread/INFO]: Draken5082[/117.7.220.84:28149] logged out due to transfer
+2021-07-03 [03:37:12] [Server thread/INFO]: LongSenpai2753[/171.225.254.255:3723] logged out due to transfer
+2021-07-03 [03:37:51] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged in with entity id 64 at (Lobby3, -90.6975, 20, 47.6453)
+2021-07-03 [03:38:01] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [03:38:01] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged out due to transfer
+2021-07-03 [03:38:37] [Server thread/INFO]: Sonvntb[/42.113.1.138:57262] logged in with entity id 65 at (Lobby3, -92.513, 20, 46.7314)
+2021-07-03 [03:38:43] [Server thread/INFO]: Sonvntb joined the game
+2021-07-03 [03:38:46] [Server thread/INFO]: Sonvntb[/42.113.1.138:57262] logged out due to transfer
+2021-07-03 [03:39:02] [Server thread/INFO]: Zodiac4863[/42.112.87.200:62607] logged in with entity id 66 at (Lobby3, -91.1647, 20, 46.9179)
+2021-07-03 [03:39:09] [Server thread/INFO]: Zodiac4863 joined the game
+2021-07-03 [03:39:12] [Server thread/INFO]: Zodiac4863[/42.112.87.200:62607] logged out due to transfer
+2021-07-03 [03:42:07] [Server thread/INFO]: khoikage1[/171.252.153.49:28680] logged in with entity id 67 at (Lobby3, -91.4025, 19, 50.5542)
+2021-07-03 [03:42:37] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [03:42:52] [Server thread/INFO]: khoikage1[/171.252.153.49:28680] logged out due to transfer
+2021-07-03 [03:43:09] [Server thread/INFO]: DSilent1802[/42.114.30.89:34501] logged in with entity id 68 at (Lobby3, -94.1031, 20, 48.8599)
+2021-07-03 [03:43:29] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [03:43:31] [Server thread/INFO]: DSilent1802[/42.114.30.89:34501] logged out due to transfer
+2021-07-03 [03:43:55] [Server thread/NOTICE]: Player data not found for "lamnguyen2212", creating new profile
+2021-07-03 [03:43:55] [Server thread/INFO]: lamnguyen2212[/103.199.68.50:14972] logged in with entity id 69 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:44:03] [Server thread/INFO]: lamnguyen2212 joined the game
+2021-07-03 [03:44:48] [Server thread/NOTICE]: Player data not found for "huyvn7440", creating new profile
+2021-07-03 [03:44:48] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged in with entity id 70 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:44:48] [Server thread/NOTICE]: Player data not found for "punoggy1270", creating new profile
+2021-07-03 [03:44:49] [Server thread/INFO]: PunOggy1270[/113.172.139.139:36438] logged in with entity id 71 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:44:56] [Server thread/INFO]: lamnguyen2212[/103.199.68.50:14972] logged out due to transfer
+2021-07-03 [03:45:01] [Server thread/INFO]: HuyVN7440 joined the game
+2021-07-03 [03:45:07] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged out due to transfer
+2021-07-03 [03:45:07] [Server thread/INFO]: PunOggy1270 joined the game
+2021-07-03 [03:45:16] [Server thread/INFO]: PunOggy1270[/113.172.139.139:36438] logged out due to transfer
+2021-07-03 [03:45:21] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged in with entity id 72 at (Lobby3, -92.6984, 21, 41.9727)
+2021-07-03 [03:45:33] [Server thread/INFO]: Lmao124615 joined the game
+2021-07-03 [03:45:38] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged out due to transfer
+2021-07-03 [03:45:54] [Server thread/NOTICE]: Player data not found for "meussann", creating new profile
+2021-07-03 [03:45:55] [Server thread/INFO]: Meussann[/14.176.98.40:52036] logged in with entity id 73 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:46:22] [Server thread/NOTICE]: Player data not found for "vinha6ntt", creating new profile
+2021-07-03 [03:46:23] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged in with entity id 74 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:46:32] [Server thread/INFO]: VinhA6NTT joined the game
+2021-07-03 [03:46:37] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged out due to transfer
+2021-07-03 [03:46:39] [Server thread/INFO]: Meussann joined the game
+2021-07-03 [03:46:50] [Server thread/INFO]: Meussann[/14.176.98.40:52036] logged out due to transfer
+2021-07-03 [03:46:52] [Server thread/NOTICE]: Player data not found for "oniichan244", creating new profile
+2021-07-03 [03:46:53] [Server thread/INFO]: Oniichan244[/1.52.67.48:21067] logged in with entity id 75 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:46:58] [Server thread/INFO]: Oniichan244 joined the game
+2021-07-03 [03:47:02] [Server thread/NOTICE]: Player data not found for "quaft204", creating new profile
+2021-07-03 [03:47:02] [Server thread/INFO]: Quaft204[/113.165.84.164:47788] logged in with entity id 76 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:47:07] [Server thread/INFO]: Quaft204 joined the game
+2021-07-03 [03:47:08] [Server thread/INFO]: Oniichan244[/1.52.67.48:21067] logged out due to transfer
+2021-07-03 [03:47:17] [Server thread/NOTICE]: Player data not found for "twangytable8810", creating new profile
+2021-07-03 [03:47:17] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:49178] logged in with entity id 77 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:47:24] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged in with entity id 78 at (Lobby3, -95.6619, 20.1213, 49.2954)
+2021-07-03 [03:47:25] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [03:47:34] [Server thread/INFO]: 【Member】 TwangyTable8810 ➢ wtf
+2021-07-03 [03:47:42] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:49178] logged out due to transfer
+2021-07-03 [03:47:44] [Server thread/INFO]: Namct123w joined the game
+2021-07-03 [03:47:45] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged out due to transfer
+2021-07-03 [03:47:48] [Server thread/INFO]: 【Member】 Quaft204 ➢ :/
+2021-07-03 [03:47:50] [Server thread/INFO]: Quaft204[/113.165.84.164:47788] logged out due to transfer
+2021-07-03 [03:48:04] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged in with entity id 79 at (Lobby3, -91.6346, 20, 47.8562)
+2021-07-03 [03:48:30] [Server thread/INFO]: KhanhMine12 joined the game
+2021-07-03 [03:48:50] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged out due to transfer
+2021-07-03 [03:48:55] [Server thread/NOTICE]: Player data not found for "quynh932", creating new profile
+2021-07-03 [03:48:56] [Server thread/INFO]: Quynh932[/113.169.140.209:40695] logged in with entity id 80 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:49:05] [Server thread/INFO]: Quynh932 joined the game
+2021-07-03 [03:49:09] [Server thread/INFO]: Quynh932[/113.169.140.209:40695] logged out due to transfer
+2021-07-03 [03:49:24] [Server thread/NOTICE]: Player data not found for "bimaxlay2005", creating new profile
+2021-07-03 [03:49:25] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:10306] logged in with entity id 81 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:49:34] [Server thread/INFO]: BiMaxLay2005 joined the game
+2021-07-03 [03:49:50] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:10306] logged out due to transfer
+2021-07-03 [03:50:10] [Server thread/INFO]: khoikage1[/171.252.153.49:2264] logged in with entity id 82 at (Lobby3, -91.4025, 19, 50.5542)
+2021-07-03 [03:50:46] [Server thread/INFO]: khoikage1 joined the game
+2021-07-03 [03:50:48] [Server thread/INFO]: khoikage1[/171.252.153.49:2264] logged out due to transfer
+2021-07-03 [03:50:52] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:49178] logged in with entity id 83 at (Lobby3, -92.4888, 20, 46.3096)
+2021-07-03 [03:51:00] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [03:51:13] [Server thread/INFO]: TwangyTable8810 left the game
+2021-07-03 [03:51:13] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:49178] logged out due to timeout
+2021-07-03 [03:51:24] [Server thread/INFO]: Steve[/123.28.213.198:38978] logged out due to You need to authenticate to Xbox Live.
+2021-07-03 [03:51:53] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged in with entity id 84 at (Lobby3, -92.1427, 20, 45.5384)
+2021-07-03 [03:51:58] [Server thread/INFO]: Steve[/123.28.213.198:38978] logged out due to You need to authenticate to Xbox Live.
+2021-07-03 [03:51:59] [Server thread/NOTICE]: Player data not found for "willfulmitten16", creating new profile
+2021-07-03 [03:52:00] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:53028] logged in with entity id 85 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:52:01] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [03:52:05] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged out due to transfer
+2021-07-03 [03:52:19] [Server thread/INFO]: WillfulMitten16 joined the game
+2021-07-03 [03:52:25] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:53028] logged out due to transfer
+2021-07-03 [03:54:53] [Server thread/NOTICE]: Player data not found for "totemicsheep997", creating new profile
+2021-07-03 [03:54:55] [Server thread/INFO]: TotemicSheep997[/103.108.21.81:28579] logged in with entity id 86 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:54:57] [Server thread/NOTICE]: Player data not found for "ten cat moi", creating new profile
+2021-07-03 [03:54:58] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged in with entity id 87 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:55:08] [Server thread/INFO]: Ten cat moi joined the game
+2021-07-03 [03:55:11] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged out due to transfer
+2021-07-03 [03:55:21] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:51789] logged in with entity id 88 at (Lobby3, -90.1561, 20, 47.7029)
+2021-07-03 [03:55:50] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:51789] logged out due to timeout
+2021-07-03 [03:56:05] [Server thread/INFO]: TotemicSheep997 joined the game
+2021-07-03 [03:56:06] [Server thread/NOTICE]: Player data not found for "zzznvkzzz", creating new profile
+2021-07-03 [03:56:06] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged in with entity id 89 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:56:14] [Server thread/INFO]: TotemicSheep997[/103.108.21.81:28579] logged out due to transfer
+2021-07-03 [03:56:14] [Server thread/INFO]: zZzNVKzZz joined the game
+2021-07-03 [03:56:21] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged in with entity id 90 at (Lobby3, -90.8781, 20, 48.0529)
+2021-07-03 [03:56:32] [Server thread/INFO]: Ten cat moi joined the game
+2021-07-03 [03:56:40] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged out due to transfer
+2021-07-03 [03:56:40] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged out due to transfer
+2021-07-03 [03:56:47] [Server thread/NOTICE]: Player data not found for "vietcaygm", creating new profile
+2021-07-03 [03:56:48] [Server thread/INFO]: VietCayGM[/171.225.251.63:22320] logged in with entity id 91 at (Lobby3, -88, 20, 48)
+2021-07-03 [03:57:13] [Server thread/INFO]: VietCayGM joined the game
+2021-07-03 [03:57:23] [Server thread/INFO]: VietCayGM[/171.225.251.63:22320] logged out due to transfer
+2021-07-03 [03:57:58] [Server thread/INFO]: VietCayGM[/171.225.251.63:22320] logged in with entity id 92 at (Lobby3, -90.1563, 20, 48.034)
+2021-07-03 [03:58:23] [Server thread/INFO]: VietCayGM joined the game
+2021-07-03 [03:58:57] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 93 at (Lobby3, -92.4859, 21.0244, 47.9575)
+2021-07-03 [03:59:08] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [03:59:09] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [03:59:16] [Server thread/INFO]: 【Member】 VietCayGM ➢ mất hết r
+2021-07-03 [03:59:55] [Server thread/INFO]: VietCayGM left the game
+2021-07-03 [03:59:55] [Server thread/INFO]: VietCayGM[/171.225.251.63:22320] logged out due to client disconnect
+2021-07-03 [04:00:21] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged in with entity id 94 at (Lobby3, -92.6149, 20, 46.4743)
+2021-07-03 [04:00:22] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 95 at (Lobby3, -92.4859, 20, 47.9575)
+2021-07-03 [04:00:22] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged in with entity id 96 at (Lobby3, -91.8352, 20.0025, 45.8743)
+2021-07-03 [04:00:24] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged in with entity id 97 at (Lobby3, -91.3641, 20, 49.0821)
+2021-07-03 [04:00:24] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 98 at (Lobby3, -94.1285, 20, 47.3547)
+2021-07-03 [04:00:25] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged in with entity id 99 at (Lobby3, -90.6975, 20, 47.6453)
+2021-07-03 [04:00:27] [Server thread/INFO]: Bubuoiboi joined the game
+2021-07-03 [04:00:28] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged in with entity id 100 at (Lobby3, -90.3063, 20, 48.352)
+2021-07-03 [04:00:28] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged out due to transfer
+2021-07-03 [04:00:29] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged in with entity id 101 at (Lobby3, -95.6619, 20.0156, 49.2954)
+2021-07-03 [04:00:30] [Server thread/INFO]: DSilent1802[/42.114.30.89:53758] logged in with entity id 102 at (Lobby3, -94.1031, 20, 48.8599)
+2021-07-03 [04:00:31] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [04:00:32] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [04:00:33] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:20392] logged in with entity id 103 at (Lobby3, -90.5513, 20, 48.677)
+2021-07-03 [04:00:33] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged in with entity id 104 at (Lobby3, -95.2434, 19, 48.6331)
+2021-07-03 [04:00:33] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged in with entity id 105 at (Lobby3, -93.0489, 20.7098, 50.4303)
+2021-07-03 [04:00:34] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [04:00:35] [Server thread/INFO]: MAX10058648 joined the game
+2021-07-03 [04:00:35] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [04:00:35] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged in with entity id 106 at (Lobby3, -91.6346, 20, 47.8562)
+2021-07-03 [04:00:36] [Server thread/NOTICE]: Player data not found for "yeucacban", creating new profile
+2021-07-03 [04:00:36] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged out due to transfer
+2021-07-03 [04:00:37] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged out due to transfer
+2021-07-03 [04:00:37] [Server thread/INFO]: HuyVN7440 joined the game
+2021-07-03 [04:00:37] [Server thread/INFO]: Yeucacban[/27.3.64.5:43969] logged in with entity id 107 at (Lobby3, -88, 20, 48)
+2021-07-03 [04:00:37] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:51789] logged in with entity id 108 at (Lobby3, -90.1561, 20, 47.7029)
+2021-07-03 [04:00:37] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [04:00:38] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged in with entity id 109 at (Lobby3, -92.4502, 20, 47.8459)
+2021-07-03 [04:00:39] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged out due to transfer
+2021-07-03 [04:00:42] [Server thread/INFO]: Oniichan244[/1.52.67.48:25523] logged in with entity id 110 at (Lobby3, -90.9376, 20, 48.0245)
+2021-07-03 [04:00:44] [Server thread/INFO]: ThaiNoPro6215 joined the game
+2021-07-03 [04:00:46] [Server thread/INFO]: Five3150[/171.251.232.72:61216] logged in with entity id 111 at (Lobby3, -90.0857, 20, 49.1592)
+2021-07-03 [04:00:47] [Server thread/INFO]: Oniichan244 joined the game
+2021-07-03 [04:00:47] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged out due to transfer
+2021-07-03 [04:00:48] [Server thread/INFO]: MarbleGlint2843 joined the game
+2021-07-03 [04:00:48] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [04:00:48] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [04:00:49] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged in with entity id 112 at (Lobby3, -92.6149, 20, 46.4743)
+2021-07-03 [04:00:49] [Server thread/INFO]: Namct123w joined the game
+2021-07-03 [04:00:49] [Server thread/INFO]: Oniichan244[/1.52.67.48:25523] logged out due to transfer
+2021-07-03 [04:00:49] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:23390] logged out due to transfer
+2021-07-03 [04:00:50] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:20392] logged out due to transfer
+2021-07-03 [04:00:51] [Server thread/INFO]: Quaft204[/113.165.84.164:47788] logged in with entity id 113 at (Lobby3, -91.442, 20, 47.7843)
+2021-07-03 [04:00:51] [Server thread/INFO]: 【Member】 Sanawasw ➢ cc j hoaid
+2021-07-03 [04:00:52] [Server thread/INFO]: Ten cat moi joined the game
+2021-07-03 [04:00:52] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged out due to transfer
+2021-07-03 [04:00:52] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:56445] logged in with entity id 114 at (Lobby3, -91.1724, 20, 48.1291)
+2021-07-03 [04:00:54] [Server thread/INFO]: Bubuoiboi joined the game
+2021-07-03 [04:00:54] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to transfer
+2021-07-03 [04:00:55] [Server thread/INFO]: Quaft204 joined the game
+2021-07-03 [04:00:55] [Server thread/INFO]: Yeucacban joined the game
+2021-07-03 [04:00:55] [Server thread/INFO]: Five3150 joined the game
+2021-07-03 [04:00:57] [Server thread/INFO]: WillfulMitten16 joined the game
+2021-07-03 [04:00:57] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged out due to transfer
+2021-07-03 [04:00:58] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged out due to transfer
+2021-07-03 [04:00:59] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged out due to transfer
+2021-07-03 [04:00:59] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged in with entity id 115 at (Lobby3, -91.7218, 20, 48.1616)
+2021-07-03 [04:01:00] [Server thread/INFO]: DSilent1802[/42.114.30.89:53758] logged out due to transfer
+2021-07-03 [04:01:00] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged in with entity id 116 at (Lobby3, -92.4403, 20, 49.1389)
+2021-07-03 [04:01:00] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged in with entity id 117 at (Lobby3, -93.057, 20, 46.0953)
+2021-07-03 [04:01:00] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:36220] logged in with entity id 118 at (Lobby3, -92.2595, 20, 47.7223)
+2021-07-03 [04:01:01] [Server thread/INFO]: KhanhMine12 joined the game
+2021-07-03 [04:01:01] [Server thread/INFO]: BiMaxLay2005 joined the game
+2021-07-03 [04:01:02] [Server thread/INFO]: Monnkhon1294 joined the game
+2021-07-03 [04:01:03] [Server thread/INFO]: 【Member】 Quaft204 ➢ f
+2021-07-03 [04:01:03] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 119 at (Lobby3, -92.4859, 20, 47.9575)
+2021-07-03 [04:01:04] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged in with entity id 120 at (Lobby3, -90.6975, 20, 47.6453)
+2021-07-03 [04:01:04] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged in with entity id 121 at (Lobby3, -91.3641, 20, 49.0821)
+2021-07-03 [04:01:06] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged out due to transfer
+2021-07-03 [04:01:07] [Server thread/INFO]: Yeucacban[/27.3.64.5:43969] logged out due to transfer
+2021-07-03 [04:01:07] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged out due to transfer
+2021-07-03 [04:01:07] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:56445] logged out due to transfer
+2021-07-03 [04:01:08] [Server thread/INFO]: Five3150[/171.251.232.72:61216] logged out due to transfer
+2021-07-03 [04:01:09] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged in with entity id 122 at (Lobby3, -90.7423, 20, 48.8399)
+2021-07-03 [04:01:09] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [04:01:09] [Server thread/INFO]: VinhA6NTT joined the game
+2021-07-03 [04:01:14] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [04:01:15] [Server thread/INFO]: 【Member】 TwangyTable8810 ➢ adu
+2021-07-03 [04:01:15] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [04:01:15] [Server thread/INFO]: 【Member】 WillfulMitten16 ➢ ad đóng sever r
+2021-07-03 [04:01:15] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged in with entity id 123 at (Lobby3, -92.747, 20, 45.6661)
+2021-07-03 [04:01:16] [Server thread/INFO]: Quaft204[/113.165.84.164:47788] logged out due to transfer
+2021-07-03 [04:01:16] [Server thread/INFO]: HuyVN7440 joined the game
+2021-07-03 [04:01:17] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged in with entity id 124 at (Lobby3, -90.7268, 20, 48.9159)
+2021-07-03 [04:01:18] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged out due to transfer
+2021-07-03 [04:01:20] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:20392] logged in with entity id 125 at (Lobby3, -90.5513, 20, 48.677)
+2021-07-03 [04:01:21] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged in with entity id 126 at (Lobby3, -95.2857, 20, 47.3778)
+2021-07-03 [04:01:21] [Server thread/INFO]: Bubuoiboi joined the game
+2021-07-03 [04:01:22] [Server thread/INFO]: BruhHaKhang joined the game
+2021-07-03 [04:01:22] [Server thread/INFO]: MAX10058648 joined the game
+2021-07-03 [04:01:26] [Server thread/INFO]: 【Member】 TwangyTable8810 ➢ xong nửa
+2021-07-03 [04:01:27] [Server thread/INFO]: Oniichan244[/1.52.67.48:25523] logged in with entity id 127 at (Lobby3, -90.9376, 20, 48.0245)
+2021-07-03 [04:01:28] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged in with entity id 128 at (Lobby3, -90.5261, 20, 48.7063)
+2021-07-03 [04:01:29] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [04:01:30] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged in with entity id 129 at (Lobby3, -92.212, 20, 46.0018)
+2021-07-03 [04:01:30] [Server thread/INFO]: 【Member】 WillfulMitten16 ➢ moé minh
+2021-07-03 [04:01:31] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged in with entity id 130 at (Lobby3, -94.7896, 20, 47.0735)
+2021-07-03 [04:01:32] [Server thread/INFO]: Oniichan244 joined the game
+2021-07-03 [04:01:33] [Server thread/INFO]: DSilent1802[/42.114.30.89:53758] logged in with entity id 131 at (Lobby3, -93.4156, 20, 46.358)
+2021-07-03 [04:01:34] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged in with entity id 132 at (Lobby3, -91.03, 20, 49.7438)
+2021-07-03 [04:01:34] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged out due to transfer
+2021-07-03 [04:01:34] [Server thread/INFO]: MarbleGlint2843 joined the game
+2021-07-03 [04:01:34] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged in with entity id 133 at (Lobby3, -92.4502, 20.001, 47.8459)
+2021-07-03 [04:01:34] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged in with entity id 134 at (Lobby3, -93.4118, 20, 49.8857)
+2021-07-03 [04:01:35] [Server thread/INFO]: Sanawasw joined the game
+2021-07-03 [04:01:36] [Server thread/INFO]: WarmedCloud7109 joined the game
+2021-07-03 [04:01:36] [Server thread/INFO]: Monnkhon1294 joined the game
+2021-07-03 [04:01:37] [Server thread/INFO]: zZzNVKzZz joined the game
+2021-07-03 [04:01:38] [Server thread/INFO]: 【Member】 BlackYTB66 ➢ mé
+2021-07-03 [04:01:39] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged out due to transfer
+2021-07-03 [04:01:40] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:36220] logged out due to transfer
+2021-07-03 [04:01:43] [Server thread/INFO]: WillfulMitten16 left the game
+2021-07-03 [04:01:43] [Server thread/INFO]: WillfulMitten16[/113.187.7.212:51789] logged out due to timeout
+2021-07-03 [04:01:45] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged in with entity id 135 at (Lobby3, -91.6585, 20, 48.9462)
+2021-07-03 [04:01:45] [Server thread/INFO]: 【Member】 Oniichan244 ➢ vô game
+2021-07-03 [04:01:47] [Server thread/INFO]: LuuVN joined the game
+2021-07-03 [04:01:47] [Server thread/INFO]: Ten cat moi joined the game
+2021-07-03 [04:01:49] [Server thread/INFO]: Lmao124615 joined the game
+2021-07-03 [04:01:49] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Lũ haiten
+2021-07-03 [04:01:49] [Server thread/NOTICE]: Player data not found for "bonhat123", creating new profile
+2021-07-03 [04:01:50] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged out due to transfer
+2021-07-03 [04:01:50] [Server thread/INFO]: Bonhat123[/125.235.234.251:51249] logged in with entity id 136 at (Lobby3, -88, 20, 48)
+2021-07-03 [04:01:51] [Server thread/INFO]: DSilent1802 joined the game
+2021-07-03 [04:01:53] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 137 at (Lobby3, -92.9694, 20, 46.9816)
+2021-07-03 [04:01:54] [Server thread/INFO]: Ten cat moi[/171.241.32.50:47410] logged out due to transfer
+2021-07-03 [04:01:55] [Server thread/INFO]: Namct123w joined the game
+2021-07-03 [04:01:56] [Server thread/INFO]: 【Member】 Oniichan244 ➢ đang update à
+2021-07-03 [04:01:57] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged in with entity id 138 at (Lobby3, -92.4087, 20, 46.1395)
+2021-07-03 [04:01:57] [Server thread/INFO]: Noober67345[/14.184.229.119:57377] logged in with entity id 139 at (Lobby3, -90.7939, 20, 47.9346)
+2021-07-03 [04:01:58] [Server thread/INFO]: Bonhat123 joined the game
+2021-07-03 [04:02:00] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged out due to transfer
+2021-07-03 [04:02:01] [Server thread/INFO]: 【Member】 Oniichan244 ➢ hay
+2021-07-03 [04:02:01] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged out due to transfer
+2021-07-03 [04:02:01] [Server thread/INFO]: 【Member】 Lmao124615 ➢ đông v
+2021-07-03 [04:02:03] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [04:02:03] [Server thread/INFO]: MAX10058648 joined the game
+2021-07-03 [04:02:04] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged in with entity id 140 at (Lobby3, -91.3016, 20, 47.4805)
+2021-07-03 [04:02:04] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [04:02:06] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged out due to transfer
+2021-07-03 [04:02:09] [Server thread/INFO]: 【Member】 DSilent1802 ➢ sv hay mà lag vl
+2021-07-03 [04:02:09] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Ai vô Lạc đà 2 ko :)
+2021-07-03 [04:02:10] [Server thread/INFO]: KhanhMine12 joined the game
+2021-07-03 [04:02:11] [Server thread/INFO]: Noober67345 joined the game
+2021-07-03 [04:02:14] [Server thread/INFO]: Bonhat123[/125.235.234.251:51249] logged out due to transfer
+2021-07-03 [04:02:16] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged in with entity id 141 at (Lobby3, -92.2367, 20, 48.9297)
+2021-07-03 [04:02:16] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged in with entity id 142 at (Lobby3, -90.6975, 20, 47.6453)
+2021-07-03 [04:02:16] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged in with entity id 143 at (Lobby3, -92.4184, 20, 49.5247)
+2021-07-03 [04:02:17] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 144 at (Lobby3, -92.9694, 20, 46.9816)
+2021-07-03 [04:02:17] [Server thread/INFO]: TwangyTable8810 left the game
+2021-07-03 [04:02:17] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged out due to client disconnect
+2021-07-03 [04:02:21] [Server thread/INFO]: VietCayGM[/171.225.251.63:16580] logged in with entity id 145 at (Lobby3, -90.0695, 19, 49.3702)
+2021-07-03 [04:02:22] [Server thread/INFO]: zZzNVKzZz joined the game
+2021-07-03 [04:02:24] [Server thread/INFO]: 【Member】 Oniichan244 ➢ có lag mấy đâu ông
+2021-07-03 [04:02:24] [Server thread/INFO]: MarbleGlint2843[/125.235.227.3:20392] logged out due to transfer
+2021-07-03 [04:02:25] [Server thread/INFO]: VinhA6NTT joined the game
+2021-07-03 [04:02:26] [Server thread/INFO]: BlackYTB66 joined the game
+2021-07-03 [04:02:26] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged in with entity id 146 at (Lobby3, -92.1455, 21.1768, 48.0695)
+2021-07-03 [04:02:26] [Server thread/INFO]: 【Member】 LuuVN ➢ vô mất đệ là tiêu
+2021-07-03 [04:02:27] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [04:02:28] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged in with entity id 147 at (Lobby3, -87.8971, 20, 46.991)
+2021-07-03 [04:02:32] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged in with entity id 148 at (Lobby3, -94.3885, 20, 45.9324)
+2021-07-03 [04:02:35] [Server thread/INFO]: Monnkhon1294 joined the game
+2021-07-03 [04:02:36] [Server thread/INFO]: 【Member】 KhanhMine12 ➢ cách ly đông quá r
+2021-07-03 [04:02:37] [Server thread/INFO]: TwangyTable8810 joined the game
+2021-07-03 [04:02:37] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged in with entity id 149 at (Lobby3, -93.6108, 20, 45.7335)
+2021-07-03 [04:02:38] [Server thread/INFO]: HuyVN7440 joined the game
+2021-07-03 [04:02:39] [Server thread/INFO]: 【Member】 VinhA6NTT ➢ sv sạpa f
+2021-07-03 [04:02:39] [Server thread/INFO]: SappyPlanet1400 joined the game
+2021-07-03 [04:02:40] [Server thread/INFO]: zZzNVKzZz[/113.182.153.30:39613] logged out due to transfer
+2021-07-03 [04:02:43] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:7223] logged in with entity id 150 at (Lobby3, -93.5561, 20, 48.6973)
+2021-07-03 [04:02:44] [Server thread/INFO]: 【Member】 VinhA6NTT ➢ sập sv à
+2021-07-03 [04:02:45] [Server thread/INFO]: 【Member】 Oniichan244 ➢ nấy khối block reup chậm quá
+2021-07-03 [04:02:46] [Server thread/INFO]: Bonhat123[/125.235.234.251:51249] logged out due to Server is full!
+2021-07-03 [04:02:48] [Server thread/INFO]: 【Member】 Noober67345 ➢ tụ tập quá
+2021-07-03 [04:02:52] [Server thread/INFO]: VietCayGM joined the game
+2021-07-03 [04:02:52] [Server thread/INFO]: Oniichan244[/1.52.67.48:25523] logged out due to transfer
+2021-07-03 [04:02:54] [Server thread/INFO]: HieuBadBoy2173 joined the game
+2021-07-03 [04:02:54] [Server thread/INFO]: 【Member】 Sanawasw ➢ đang up cái đi đó
+2021-07-03 [04:02:56] [Server thread/INFO]: Lmao124615 joined the game
+2021-07-03 [04:03:00] [Server thread/INFO]: 【Member】 Sanawasw ➢ ko có sập mấy cha
+2021-07-03 [04:03:01] [Server thread/INFO]: Bubuoiboi drowned
+2021-07-03 [04:03:04] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [04:03:10] [Server thread/INFO]: BlackYTB66[/123.31.77.50:54358] logged out due to transfer
+2021-07-03 [04:03:12] [Server thread/INFO]: 【Member】 Noober67345 ➢ cách li đê
+2021-07-03 [04:03:14] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:54002] logged in with entity id 151 at (Lobby3, -91.5472, 20, 48.0849)
+2021-07-03 [04:03:14] [Server thread/INFO]: 【Member】 VietCayGM ➢ Llama đâu nhiều thế
+2021-07-03 [04:03:15] [Server thread/INFO]: 【Member】 BruhHaKhang ➢ Thg nào ko trong team lạc đà mà mặc skin lạc đà dí cho chết :)
+2021-07-03 [04:03:15] [Server thread/INFO]: 【Member】 LuuVN ➢ úp thêm cái warp zombile chắc lag chết nữa
+2021-07-03 [04:03:16] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:36220] logged in with entity id 152 at (Lobby3, -92.2595, 20, 47.7223)
+2021-07-03 [04:03:18] [Server thread/INFO]: 【Member】 Noober67345 ➢ tụ tập quá
+2021-07-03 [04:03:22] [Server thread/INFO]: 【Member】 MAX10058648 ➢ đề nghị đeo khẩu trang nơi công cộng
+2021-07-03 [04:03:22] [Server thread/INFO]: BiMaxLay2005 joined the game
+2021-07-03 [04:03:23] [Server thread/INFO]: HieuBadBoy2173[/117.5.156.115:7223] logged out due to transfer
+2021-07-03 [04:03:26] [Server thread/INFO]: Bonhat123[/125.235.234.251:51249] logged in with entity id 153 at (Lobby3, -91.8984, 20.0156, 49.8033)
+2021-07-03 [04:03:30] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged in with entity id 154 at (Lobby3, -91.7126, 20, 47.444)
+2021-07-03 [04:03:31] [Server thread/INFO]: TwangyTable8810[/171.248.199.163:46967] logged out due to transfer
+2021-07-03 [04:03:33] [Server thread/INFO]: 【Member】 VinhA6NTT ➢ đeo cak
+2021-07-03 [04:03:35] [Server thread/INFO]: Bonhat123 joined the game
+2021-07-03 [04:03:35] [Server thread/INFO]: HuyVN7440 drowned
+2021-07-03 [04:03:40] [Server thread/INFO]: SongTuong100 joined the game
+2021-07-03 [04:03:42] [Server thread/INFO]: [CONSOLE: Saving server data...]
+2021-07-03 [04:03:42] [Server thread/INFO]: [CONSOLE: Save completed in 0.044 seconds]
+2021-07-03 [04:03:44] [Server thread/INFO]: SongTuong100[/14.237.207.61:42976] logged out due to transfer
+2021-07-03 [04:03:45] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling MaxEnchants v1.2.1
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling VanillaEnchantments v4.0.0
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling RandomBlock1 v2.0.0
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling DevTools v1.14.2
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling Slapper v1.6.2
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling SlapperRotation v1.2.1
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling MultiWorld v1.5.3
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling BuilderTools v1.2.0-beta4
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling FormAPI v1.3.0
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling PointAPI v2.0.9
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling WorldProtect v2.3.8
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling PurePerms v1.4.3
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling EconomyAPI v5.7.2
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling PureChat v1.4.11
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling Minion v1.0.4
+2021-07-03 [04:03:45] [Server thread/INFO]: Disabling DEVirion v1.2.5-ALPHA12
+2021-07-03 [04:03:45] [Server thread/INFO]: BruhHaKhang left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: BruhHaKhang[/171.250.122.206:43469] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Bubuoiboi left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Bubuoiboi[/115.76.55.146:30846] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Sanawasw left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Sanawasw[/171.236.69.200:27426] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: LuuVN left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: LuuVN[/113.165.127.195:52532] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: DSilent1802 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: DSilent1802[/42.114.30.89:53758] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Namct123w left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Namct123w[/14.173.225.125:43486] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: KhanhMine12 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: KhanhMine12[/115.76.55.163:39822] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: MAX10058648 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: MAX10058648[/42.113.159.174:22106] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Noober67345 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Noober67345[/14.184.229.119:57377] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: SappyPlanet1400 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: SappyPlanet1400[/14.185.238.12:48700] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: VinhA6NTT left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: VinhA6NTT[/42.113.253.245:46475] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: VietCayGM left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: VietCayGM[/171.225.251.63:16580] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: HuyVN7440 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: HuyVN7440[/14.161.73.155:39636] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Monnkhon1294 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Monnkhon1294[/1.55.49.63:8599] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Lmao124615 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Lmao124615[/171.240.179.123:51250] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: BiMaxLay2005 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: BiMaxLay2005[/125.235.231.36:54002] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: WarmedCloud7109[/1.55.54.150:36220] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Bonhat123 left the game
+2021-07-03 [04:03:45] [Server thread/INFO]: Bonhat123[/125.235.234.251:51249] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: ThaiNoPro6215[/27.3.72.30:43499] logged out due to Server closed
+2021-07-03 [04:03:45] [Server thread/INFO]: Unloading world "Lobby3"
+2021-07-03 [04:03:45] [Server thread/INFO]: Stopping other threads

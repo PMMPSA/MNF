@@ -1,0 +1,16 @@
+---
+pvp: false
+banitem:
+  325: Bucket
+  326: Unknown
+  327: Unknown
+  259: Flint and Steel
+  261: Bow
+  290: Wooden Hoe
+  205: Shulker Box
+bancmds:
+  /wild: /wild
+  /muafly: /muafly
+  /fly: /fly
+protect: lock
+...

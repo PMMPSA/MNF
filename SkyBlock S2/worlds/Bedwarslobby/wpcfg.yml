@@ -1,0 +1,13 @@
+---
+pvp: false
+banitem:
+  325: Bucket
+  259: Flint and Steel
+  261: Bow
+  205: Shulker Box
+bancmds:
+  /wild: /wild
+  /muafly: /muafly
+  /fly: /fly
+protect: protect
+...

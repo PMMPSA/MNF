@@ -1,0 +1,9 @@
+---
+pvp: false
+banitem:
+  325: Bucket
+  259: Flint and Steel
+bancmds:
+  /wild: /wild
+protect: lock
+...

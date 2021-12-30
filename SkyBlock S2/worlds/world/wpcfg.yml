@@ -1,0 +1,14 @@
+---
+protect: lock
+banitem:
+  259: Flint and Steel
+  51: Fire Block
+  368: Ender Pearl
+  325: Bucket
+  79: Ice
+pvp: false
+bancmds:
+  /fly: /fly
+  /wild: /wild
+  /sethome: /sethome
+...

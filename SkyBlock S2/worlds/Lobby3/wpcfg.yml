@@ -1,0 +1,13 @@
+---
+banitem:
+  259: Flint and Steel
+  261: Bow
+  325: Bucket
+bancmds:
+  /wild: /wild
+  /fly: /fly
+  /muafly: /muafly
+  /home: /home
+pvp: false
+protect: lock
+...

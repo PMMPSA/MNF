@@ -1,0 +1,19 @@
+name: PHP-Sell
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0]
+main: SellHand\Main
+version: 1.2.7
+author: Muqsit
+commands:
+  phpsell:
+    description: "Lệnh tích hợp đệ tử auto sell"
+    permission: sell.command
+permissions:
+  sell:
+    default: op
+    children:
+      sell.hand:
+        default: true
+      sell.all:
+        default: true
+      sell.command:
+        default: op

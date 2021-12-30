@@ -1,0 +1,15 @@
+name: MuaPoint
+main: LamPocketVN\MuaPoint\MuaPoint
+version: 0.1.lpk
+api: 3.9.0
+author: LamPocketVN
+depend:
+  - EconomyAPI
+  - PointAPI
+commands:
+  muapoint:
+    description: "Mở menu mua point / tỉ giá hiện tại 280000 xu - 1 point"
+permissions:
+  muapoint.command:
+    description: "Allow use command /muapoint"
+    default: true

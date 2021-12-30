@@ -1,0 +1,9 @@
+name: BuydetuUI
+version: 1.0
+api: 3.0.0
+main: FurryJaki1992\MuaTuNhanUI\Main
+author: FurryJaki1992
+
+commands:
+  muadetu:
+    description: "Mua đệ tử cho đảo bạn"

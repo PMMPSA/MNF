@@ -1,0 +1,11 @@
+---
+bancmds:
+  /wild: /wild
+  /fly: /fly
+banitem:
+  261: Bow
+  325: Bucket
+  205: Shulker Box
+pvp: false
+protect: lock
+...

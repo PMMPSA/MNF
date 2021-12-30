@@ -1,0 +1,24 @@
+name: detu
+version: 4.0.0
+api: 3.0.0
+main: CLADevs\Minion\Main
+author: CLADevs || GreenJajot
+
+commands:
+  detu:
+    usage: "/detu"
+    permission: detu.cmd
+    description: "Nhận đệ tử / admin command"
+  detusellmessage:
+    usage: "/detusellmessage"
+    permission: nosell.command
+    description: "Tắt chat khi đệ bán đồ trong rương"
+  tatketnoi:
+    description: "Dùng để tắt kết nối rương của đệ"
+permissions:
+  detu.cmd:
+    default: op
+  nosell.command:
+    default: true
+  detu.openall:
+    default: op

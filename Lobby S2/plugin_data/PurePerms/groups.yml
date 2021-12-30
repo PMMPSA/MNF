@@ -1,0 +1,18 @@
+---
+Member:
+  alias: member
+  isDefault: true
+  inheritance: []
+  permissions:
+  - autosell.command.autosell
+  - kit.hothankit
+  - kit.member
+  - mw.cmd.teleport
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.transferserver
+  - pperms.command.ppinfo
+  - use.shop.menu
+  worlds: []
+...

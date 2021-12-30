@@ -1,0 +1,17 @@
+---
+bancmds:
+  /wild: /wild
+  /fly: /fly
+  /sethome: /sethome
+  /home: /home
+  /muafly: /muafly
+banitem:
+  368: Ender Pearl
+  301: Leather Boots
+  325: Bucket
+  259: Flint and Steel
+  261: Bow
+  205: Shulker Box
+pvp: false
+protect: lock
+...

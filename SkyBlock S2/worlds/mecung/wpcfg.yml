@@ -1,0 +1,12 @@
+---
+bancmds:
+  /wild: /wild
+  /sethome: /sethome
+  /home: /home
+  /fly: /fly
+banitem:
+  325: Bucket
+  0: Air
+  261: Bow
+protect: lock
+...

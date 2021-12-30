@@ -1,0 +1,17 @@
+---
+bancmds:
+  /wild: /wild
+  /muafly: /muafly
+  /fly: /fly
+banitem:
+  325: Bucket
+  259: Flint and Steel
+  368: Ender Pearl
+  205: Shulker Box
+  273: Stone Shovel
+  269: Wooden Shovel
+  256: Iron Shovel
+  284: Gold Shovel
+  277: Diamond Shovel
+protect: lock
+...

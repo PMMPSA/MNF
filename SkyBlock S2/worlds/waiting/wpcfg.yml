@@ -1,0 +1,12 @@
+---
+banitem:
+  325: Bucket
+  259: Flint and Steel
+  368: Ender Pearl
+  205: Shulker Box
+protect: lock
+bancmds:
+  /wild: /wild
+  /fly: /fly
+pvp: false
+...
